@@ -16,6 +16,12 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # About/contact
 author:
   name:              Jens Bäckbom
@@ -32,3 +38,13 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
+
+twitter:
+    username:       jensbackbom
+
+social:
+  name: Jens Bäckbom
+  links:
+    - https://twitter.com/jensbackbom
+    - https://www.facebook.com/jens.backbom
+    - https://www.linkedin.com/in/jensbackbom
