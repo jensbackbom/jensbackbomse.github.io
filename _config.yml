@@ -1,0 +1,34 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Jens Bäckbom
+tagline:             Sett och gjort
+url:                 http://www.jensbackbom.com
+paginate:            1
+baseurl:             ""
+analytics_id:        UA-63356511-1
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jens Bäckbom
+  url:               https://twitter.com/jensbackbom
+  email:             jens.backbom@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
