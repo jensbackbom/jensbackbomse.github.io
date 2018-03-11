@@ -2,6 +2,7 @@
 layout: post
 title: Att rekrytera utvecklare på en stekhet marknad - några konkreta tips
 image: assets/img/2018-02-rekrytera-utvecklare.jpeg
+summary: Var konkret, det lönar sig.
 ---
 
 Om du är en duktig programmerare så har du idag inga som helst problem att hitta jobb. Behärskar du tekniker där det råder stor brist på utvecklare kan du dessutom förhandla dig till en hel del förmåner såsom hög lön, möjlighet att jobba hemifrån, träna på arbetstid och få gratis lunch på jobbet. I vissa specialfall (om du t.ex. är riktigt vass på COBOL eller Sharepoint) så kan du i princip begära vilken lön / ersättning som helst.
