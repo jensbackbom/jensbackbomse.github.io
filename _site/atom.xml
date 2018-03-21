@@ -4,7 +4,7 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-11T20:24:25+01:00</updated>
+ <updated>2018-03-21T07:30:06+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
@@ -56,6 +56,21 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Dessa var några konkreta tips på saker man kan tänka på när man rekryterar teknikkompetens. Tips mottages tacksamt på andra saker man bör tänka på, jag tänkte försöka hålla denna artikel lite levande så kom gärna med input!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tänka, rätt och fel</title>
+   <link href="http://localhost:4000/2017/03/14/tanka-ratt-och-fel/"/>
+   <updated>2017-03-14T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/03/14/tanka-ratt-och-fel</id>
+   <content type="html">&lt;p&gt;För ett och ett halvt år sedan skapade jag onlinekursen ‘Tänk’ på DailyBitsOf. Jag hade nyligen läst och blivit inspirerad av en bok om populärmatematik, som fick mig att sätta ihop en handfull korta lektioner på temat ‘Vanliga felaktiga slutsatser’. Det visade sig finnas ett visst intresse för detta ämne, så jag kom efter några månader i kontakt med bokförlaget Roos &amp;amp; Tegnér som undrade om jag skulle vilja skriva en bok på samma tema.&lt;/p&gt;
+
+&lt;p&gt;Resultatet blev boken ‘Tänka, rätt och fel’ som släpptes på Roos &amp;amp; Tegnér förlag förra veckan. Den är ett försök att sammanställa en rad lärdomar kring hur man kan använda hjärnan mer effektivt, vilket kan innebära flera olika saker. Ibland kan det vara bra att känna till några vanliga felaktiga slutsatser så att man lättare kan undvika dem, såsom att blanda ihop korrelation och kausalitet eller orsak och verkan. Det kan också röra sig om att lära sig undvika (eller tillämpa!) olika former av marknadsföringsknep som är designade för att påverka köpbeslut, eller bli bättre på att tänka i termer av sannolikheter. Vår hjärna är ju designad för att hantera ett liv i naturen bland vilda djur, vilket ibland får oss att bli onödigt kategoriska. Det kan därför vara klokt att lära sig känna igen olika typfall när hjärnan drar förhastade slutsatser.&lt;/p&gt;
+
+&lt;p&gt;Boken är ett försök att sammanställa idéer och koncept som jag själv vill kunna tillämpa i vardagen för att fatta mer genomtänka beslut. Dels genom att undvika felaktiga slutsater, men även genom att vässa tankeförmågan på olika sätt och bli mer kreativ. Jag har tagit med en del checklistor i den - delvis sådana som jag själv försöker använda i olika beslutssituationer. Jag hoppas att den kan komma till användning och att den kan få läsare att undvika åtminstone några vanliga tokigheter.&lt;/p&gt;
+
+&lt;p&gt;Köp den hos &lt;a href=&quot;https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599&quot;&gt;Adlibris&lt;/a&gt; eller &lt;a href=&quot;https://www.bokus.com/bok/9789187905599/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre/&quot;&gt;Bokus&lt;/a&gt;!&lt;/p&gt;
 </content>
  </entry>
  
