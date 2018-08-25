@@ -4,13 +4,147 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-21T13:27:26+01:00</updated>
+ <updated>2018-08-25T16:00:34+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Verktyg för att arbeta effektivt</title>
+   <link href="http://localhost:4000/2018/08/20/smarta-verktyg/"/>
+   <updated>2018-08-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/08/20/smarta-verktyg</id>
+   <content type="html">&lt;p&gt;Nedanstående är en sammanfattning av fiffiga verktyg och funktioner som jag ofta använt själv eller blivit rekommenderad de senaste åren. Tänkte försöka hålla denna lista levande så tipsa gärna om fler!&lt;/p&gt;
+
+&lt;p&gt;Verktyg jag använt &lt;em&gt;själv&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scrivener&lt;/strong&gt; (&lt;a href=&quot;https://www.literatureandlatte.com/scrivener/&quot;&gt;https://www.literatureandlatte.com/scrivener/&lt;/a&gt;) - ett fantastiskt verktyg som innehåller allt du behöver för att skriva längre texter såsom böcker, manus, rapporter eller artiklar. Jag använde det själv för att skriva min bok Tänka, rätt och fel. Innan jag provade det var jag väldigt skeptisk till att något verktyg skulle kunna göra jobbet bättre än t.ex. vanliga textredigerare eller Word, men Scriveners funktioner för att hantera research, sortera om material m.m. gör hantering av större projekt extremt smidiga.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moom&lt;/strong&gt; (&lt;a href=&quot;https://manytricks.com/moom/&quot;&gt;https://manytricks.com/moom/&lt;/a&gt;) - gör att man kan arrangera fönster i Mac bredvid varandra, ovanför varandra etc. utan att behöva ändra storlek på dem manuellt. Delar av Mooms funktionalitet finns inbyggda i Windows, men för Mac är programmet väldigt användbart.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sublime Text&lt;/strong&gt; (&lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;https://www.sublimetext.com/&lt;/a&gt;) - jag öppnar ofta Sublime enbart för att använda dess funktion att markera och ändra många saker på en gång, t.ex. för att redigera data som jag sedan ska bearbeta i Excel. Det finns förstås många andra editorer som har samma funktionalitet (t.ex. Atom samt Vim/Emacs/etc) och smaken är delad, men att ha minst en av dessa i sin verktygsarsenal är väldigt användbart.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pivottabeller&lt;/strong&gt; (i Excel eller GoogleDocs) - detta är ju inget verktyg utan en funktion i Excel, men om du inte upptäckt pivottabeller så har du verkligen gått miste om något. Arbetar du mycket i Excel känner du säkert även till vad man använder Ctrl+pil, Shift+pil, Ctrl+Shift+pil (byt ut Ctrl mot Cmd på Mac) samt F2 och F4 (Cmd+u samt Ctrl+t på Mac), om inte så kan du spara väldigt mycket tid i ditt Excelarbete.&lt;/p&gt;
+
+&lt;p&gt;Verktyg som jag blivit &lt;em&gt;tipsad om&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TextExpander&lt;/strong&gt; (&lt;a href=&quot;https://textexpander.com/&quot;&gt;https://textexpander.com/&lt;/a&gt;) - gör det möjligt att skriva en lång text med hjälp av ett kortkommando. T.ex. kan kortkommandot “kommerater” bli ett helt litet mail i stil med “Hej, Tack för ditt mail - jag tar en titt och återkommer inom kort. Mvh, Jens”. Motsvarande funktion finns även inbyggd i iPhone, där jag bl.a. har lagt till en autocomplete så att “p81” ger mitt personnummer som förslag.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dux-Soup&lt;/strong&gt; (&lt;a href=&quot;https://www.dux-soup.com/&quot;&gt;https://www.dux-soup.com/&lt;/a&gt;) - ett lika nischat som spännande verktyg i form av en Chrome-plugin som automatiskt besöker en stor mängd LinkedIn-kontakter efter att man t.ex. gjort en sökning. På så sätt kan väldigt många LinkedIn-användare se att man besökt deras profil, vilket kan vara användbart om man t.ex. har en tagline som säger att man rekryterar el dyl. Premiumversionen gör det även möjligt att spara ner nyckelinformation om varje profil man besöker, men jag är inte helt säker på att GDPR tycker om just den funktionen.&lt;/p&gt;
+
+&lt;p&gt;Ett annat smart tips är att köpa min bok Tänka, rätt och fel hos &lt;a href=&quot;https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599&quot;&gt;Adlibris&lt;/a&gt; eller &lt;a href=&quot;https://www.bokus.com/bok/9789187905599/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre/&quot;&gt;Bokus&lt;/a&gt;, förhoppningsvis kan även den bidra till ökad produktivitet.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Effective Executive av Peter Drucker</title>
+   <link href="http://localhost:4000/2018/04/10/the-effective-executive/"/>
+   <updated>2018-04-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2018/04/10/the-effective-executive</id>
+   <content type="html">&lt;p&gt;Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok &lt;em&gt;The Effective Executive&lt;/em&gt; då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning.&lt;/p&gt;
+
+&lt;p&gt;Nedan följer ett försök att sammanfatta några av de viktigaste lärdomarna från &lt;em&gt;The Effective Executive&lt;/em&gt;:&lt;/p&gt;
+
+&lt;h3 id=&quot;vad-ska-man-kalla-boken-på-svenska&quot;&gt;Vad ska man kalla boken på svenska?&lt;/h3&gt;
+&lt;p&gt;Drucker definierar en &lt;em&gt;Executive&lt;/em&gt; som en kunskapsarbetare (definitionen av detta är att arbetet inte riktigt går att kvantifiera annat än i form av dess slutgiltiga resultat) vars dagliga arbete har en relativt stor och direkt påverkan på sin organisation. Detta inkluderar alltså flera roller, t.ex. behöver det inte nödvändigtvis vara en chef. Vidare så är en &lt;em&gt;Executive&lt;/em&gt; någon som förväntas vara duktig på att fatta beslut i allmänhet, samt kunna ta ansvar för vad hen ska göra med sin tid. Jag lutar åt att den bästa svenska översättningen av &lt;em&gt;Executive&lt;/em&gt; är &quot;beslutsfattare&quot; snarare än t.ex. &quot;direktör&quot;.&lt;/p&gt;
+
+&lt;p&gt;Definitionen av &lt;em&gt;Effective&lt;/em&gt; är inte lika uttalad i boken. Traditionellt brukar man ju dock skilja på &lt;em&gt;efficient&lt;/em&gt; (att göra saker rätt och snabbt) och &lt;em&gt;effective&lt;/em&gt; (att välja rätt saker att göra), där det senare är bokens huvudsakliga fokus. Tyvärr är den svenska översättningen av både &lt;em&gt;efficient&lt;/em&gt; och &lt;em&gt;effective&lt;/em&gt; &quot;effektiv&quot;, men i brist på bättre kommer jag att använda detta nedan. Den svenska översättningen borde således bli något i stil med &quot;Den effektiva beslutsfattaren&quot;.&lt;/p&gt;
+
+&lt;h3 id=&quot;fem-kännetecken-för-den-effektive-beslutsfattaren&quot;&gt;Fem kännetecken för den effektive beslutsfattaren:&lt;/h3&gt;
+&lt;p&gt;Drucker hävdar att förmågan att vara effektiv är en fråga om vana och rutin snarare än kunskap, och att denna vana går att träna upp. En effektiv beslutsfattare kännetecknas av fem egenskaper:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;En effektiv beslutsfattare har koll på hur hen disponerar sin tid&lt;/strong&gt;. Hen studerar regelbundet sin kalender, identifierar tidstjuvar och försöker bli av med dem.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;En effektiv beslutsfattare fokuserar på &quot;utåtriktade&quot; resultat&lt;/strong&gt; (till skillnad från resultat inom sin organisation). En organisation har oftast en målgrupp (ett företag har kunder, en skola har elever och ett sjukhus har patienter) och är i första hand till för att åstadkomma resultat som påverkar denna målgrupp. &quot;Inåtriktade&quot; resultat såsom kommunikation, politik o dyl måste komma i andra hand.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;En effektiv beslutsfattare bygger på styrkor snarare än minimerar svagheter&lt;/strong&gt;. Om man ägnar sig för mycket åt att minimera svagheter kommer man att få mellanmjölksresultat. Bättre då att bli duktig på att framhäva personers styrkor och se till att de kompletterar varandra i ett fungerande lag.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;En effektiv beslutsfattare fokuserar på ett fåtal områden där insatsen ger störst resultat&lt;/strong&gt;. Hen tvingar sig själv att prioritera stenhårt.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;En effektiv beslutsfattare fattar effektiva beslut&lt;/strong&gt;. Detta låter förstås som en tautologi, men det har i första hand att göra med min översättning av &lt;em&gt;Executive&lt;/em&gt;. Poängen är att ha en fungerande beslutsprocess som grundar sig i fakta och leder till handling.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;att-disponera-sin-tid-effektivt&quot;&gt;Att disponera sin tid effektivt&lt;/h3&gt;
+&lt;p&gt;Beslutsfattares tid är andras egendom. Kunder och kollegor kommer ständigt att vilja göra anspråk på beslutsfattarens tid, och det är upp till denne att se till att det finns tid över till det arbete som har störst påverkan på organisationens resultat. Det är därför viktigt för beslutsfattaren att veta vart dennes tid tar vägen.&lt;/p&gt;
+
+&lt;p&gt;Först och främst bör man ta reda på vart ens tid tar vägen. Sedan bör man försöka kapa bort tidstjuvar. Till sist bör man försöka konsolidera tid så att man batchar samma typ av aktivitet till samma tillfälle. Detta är ett av bokens huvudbudskap, så det är värt att repetera:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kartlägg tidsåtgång&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kapa tidstjuvar&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Konsolidera tid&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;De verkligt viktiga arbetsuppgifterna kräver ofta längre, fokuserade arbetspass, så man bör regelbundet avsätta längre stunder i sin kalender för denna typ av arbete. Ofta kanske man bara kan avvara en fjärdedel av sin tid på dessa sina viktigaste uppgifter (!), så det är viktigt att man kan ägna sig fokuserat åt dem när man väl får tid.&lt;/p&gt;
+
+&lt;p&gt;Effektiva beslutsfattare är även måna om andras tid, och frågar regelbundet sin omgivning: &lt;em&gt;På vilka sätt slösar jag bort din tid?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ett bra sätt att undvika slöseri av andras tid är att skicka ut mötesinbjudningar i stil med &quot;Jag kommer att ha möte med person X och Y för att diskutera Z kl XX:xx. Om du vill delta i diskussionen är du välkommen, men du kommer att få en sammanfattning i efterhand med möjligheter att kommentera så det är inget krav.&quot;&lt;/p&gt;
+
+&lt;p&gt;Tre vanliga orsaker till tidsslöseri i en organisation är:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Brist på system och förutseende&lt;/strong&gt;. Symptomet på detta är regelbunden brandsläckning, vilket ofta går att undvika med rutiner och dokumentation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;För många kockar i soppan&lt;/strong&gt;. Om mer än en tiondel av ledningens tid går åt till att hantera konflikter och personfrågor så är organisationen förmodligen för stor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Felaktig organisation&lt;/strong&gt;. Symptomet på detta är alltför många möten, vilket innebär att kunskap som borde finnas i ett huvud är utspritt på flera huvuden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;att-fokusera-på-rätt-typ-av-resultat&quot;&gt;Att fokusera på rätt typ av resultat&lt;/h3&gt;
+&lt;p&gt;Den effektive beslutsfattaren frågar sig ständigt: Vad är det bästa jag kan bidra med som på ett påtagligt sätt påverkar min organisations resultat? Hen tar ansvar för resultaten oavsett var i organisationen hen befinner sig. Om man inte frågar sig detta riskerar man att både sikta för lågt och på fel saker. Varje organisation behöver kontinuerligt prestera inom (åtminstone) tre områden:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Direkta resultat&lt;/strong&gt; (intäkter för företag, förmedlad kunskap för skolor, botade patienter för sjukhus)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kultur och värderingar&lt;/strong&gt; (moral, fokusområden)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Utveckling av personal och rekrytering av nästa generations medarbetare&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Inför varje möte, sammansträde eller presentation frågar sig den effektive beslutsfattaren: Varför har vi detta möte? Vill vi fatta ett beslut, informera om något eller klargöra något? Hen insisterar på att detta klargörs inför mötet.&lt;/p&gt;
+
+&lt;p&gt;Varje effektiv beslutsfattare frågar sina anställda/sina teammedlemmar: Vilket bidrag till organisationen bör vi hålla dig ansvarig för? Vad är det bästa sättet att använda dina kunskaper och din talang?&lt;/p&gt;
+
+&lt;h3 id=&quot;att-bygga-på-styrkor&quot;&gt;Att bygga på styrkor&lt;/h3&gt;
+&lt;p&gt;Man kan bara vara riktigt briljant inom högst ett område, aldrig flera. Även världshistoriens främsta renässansmänniskor skulle vara okända om de inte hade varit verksamma inom sitt huvudsakliga fält (Da Vinci som konstnär, Goethe som författare etc.)&lt;/p&gt;
+
+&lt;p&gt;Ska man verkligen åstadkomma något exceptionellt bör man därför fokusera på människors huvudsakliga styrkor, och se till att dessa kompletterar varandra inom ett team.&lt;/p&gt;
+
+&lt;p&gt;En effektiv beslutsfattare som även är arbetsgivare eller chef ser till att designa organisations jobb objektivt, utan hänsyn taget till vem som ska utföra arbetet.&lt;/p&gt;
+
+&lt;p&gt;Den effektiva beslutsfattaren frågar sig själv vad hens chef är riktigt duktig på, och ser till att denne har vad hen behöver för att göra ett bra jobb.&lt;/p&gt;
+
+&lt;h3 id=&quot;att-prioritera&quot;&gt;Att prioritera&lt;/h3&gt;
+&lt;p&gt;Den absolut viktigaste förmågan för effektivitet är förmågan att kunna koncentrera sig. Effektiva beslutsfattare gör de viktigaste sakerna först men gör framför allt en sak i taget.&lt;/p&gt;
+
+&lt;p&gt;Ju mer man bygger på styrkor desto mer medveten blir man om nödvändigheten att koncentrera sig på de viktigaste möjligheterna. Detta är det enda sättet att åstadkomma ordentliga resultat.&lt;/p&gt;
+
+&lt;p&gt;Den effektive beslutsfattaren är notorisk kring alla program, aktiviteter och uppgifter. Hen frågar sig alltid: &quot;Är detta fortfarande nödvändigt att göra?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Mod, snarare än analys, sätter de huvudsakliga riktlinjerna för prioritering:&quot;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fokusera på möjligheter&lt;/strong&gt; snarare än problem&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Välj din egen riktning&lt;/strong&gt; snarare än att följa efter&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sikta högt&lt;/strong&gt; snarare än att göra något som är säkert och tryggt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;att-fatta-effektiva-beslut&quot;&gt;Att fatta effektiva beslut&lt;/h3&gt;
+&lt;p&gt;Då en beslutsfattare per definition ägnar en stor del av sin tid på att fatta beslut behövs en effektiv process för detta. Några kännetecken för en effektiv beslutsprocess är bland annat:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fråga dig först: &quot;Är detta en &lt;strong&gt;återkommande&lt;/strong&gt; situation eller ett undantag?&quot; Om det är återkommande bör det finnas generella regler el dyl att falla tillbaka på. En effektiv beslutsfattare vet när det är lämpligt att vara dogmatisk (följa regeln) och när det är lämpligt att vara pragmatisk.&lt;/li&gt;
+  &lt;li&gt;Det behövs tydliga &lt;strong&gt;ramar&lt;/strong&gt; för vad beslutet ska åstadkomma, dvs vilka konsekvenser beslutet ska få.&lt;/li&gt;
+  &lt;li&gt;Det måste redan från början vara tydligt på vilket sätt beslutet ska &lt;strong&gt;omsättas i handling&lt;/strong&gt;, så att inte beslutet blir en pappersprodukt.&lt;/li&gt;
+  &lt;li&gt;Det bör finnas en feedback-loop som gör att man kan utvärdera beslutet vid ett senare tillfälle. Man behöver kunna svara på frågan &quot;Vad ska gälla för att detta beslut inte längre ska vara giltigt?&quot;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;De flesta beslut är avvägningar mellan alternativ snarare än en jakt på &quot;rätt&quot; beslut. Ju tidigare man inser det desto bättre.&lt;/p&gt;
+
+&lt;p&gt;En effektiv beslutsfattare vet också att de flesta människor inte utgår från fakta och bildar sig en åsikt - de har oftast en åsikt från början. Den effektive beslutsfattarens uppmuntrar därför åsikter, men tvingar sig själv och andra att reflektera över vad som skulle behöva gälla för att åsikten man redan har ska vara korrekt. Detta kallas ofta att arbeta hypotesbaserat - man har en åsikt/hypotes, bestämmer sig för vilka fakta som behövs för att denna ska gälla och letar sedan efter fakta. Man bör dock vara på sin vakt för &lt;em&gt;confirmation bias&lt;/em&gt;, att man bara ser stöd för hypotesen och ignorerar eventuella fakta som talar emot den.&lt;/p&gt;
+
+&lt;p&gt;Vidare bör behovet av beslut alltid vägas mot konsekvensen av att inte fatta några beslut alls i en fråga. Ibland kan man ju faktiskt låta saker fortgå som de gör. Viktigt är dock att man antingen fattar ett beslut eller inte - kompromisser blir sällan bra.&lt;/p&gt;
+
+&lt;h3 id=&quot;sammanfattning-och-reflektioner&quot;&gt;Sammanfattning och reflektioner&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;The Effective Executive&lt;/em&gt; borde vara obligatorisk läsning inom såväl ledarskapsutbildningar som inom den akademiska världen, då många ledare och akademiker förr eller senare kommer att behöva lära sig att hantera en arbetssituation där omgivningen gör ständiga anspråk på ens tid. Att i den situationen veta vad man bör lägga sin tid på är helt avgörande.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Effective Executive&lt;/em&gt; var en av flera böcker som inspirerade mig att skriva min egen bok &lt;em&gt;Tänka, rätt och fel&lt;/em&gt;. Köp den hos &lt;a href=&quot;https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599&quot;&gt;Adlibris&lt;/a&gt; eller &lt;a href=&quot;https://www.bokus.com/bok/9789187905599/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre/&quot;&gt;Bokus&lt;/a&gt; - förhoppningsvis kan även den bidra till ökad produktivitet.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Att rekrytera utvecklare på en stekhet marknad - några konkreta tips</title>

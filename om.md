@@ -12,6 +12,6 @@ Jag är ett stort fan av livslångt lärande och ser mig som generalist snarare 
 
 Utöver detta har jag skrivit en bok, *[Tänka, rätt och fel](https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599)* , som är utgiven på Roos &amp; Tegnér förlag. Den handlar dels om vanliga tankefel inom psykologi, matematik och statistik, men även om hur man på olika sätt kan bli bättre på att använda hjärnan effektivt.
 
-På den här sajten vill jag dela med mig av lärdomar samt saker jag sett eller gjort. 
+På den här sajten vill jag dela med mig av lärdomar samt saker jag sett eller gjort.
 
 Mycket nöje!
