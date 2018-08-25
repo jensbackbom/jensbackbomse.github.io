@@ -61,7 +61,7 @@ Man kan bara vara riktigt briljant inom högst ett område, aldrig flera. Även 
 
 Ska man verkligen åstadkomma något exceptionellt bör man därför fokusera på människors huvudsakliga styrkor, och se till att dessa kompletterar varandra inom ett team.
 
-En effektiv beslutsfattare som även är arbetsgivare eller chef ser till att designa organisations jobb objektivt, utan hänsyn taget till vem som ska utföra arbetet.
+En effektiv beslutsfattare som även är arbetsgivare eller chef ser till att designa organisationens arbetsuppgifter/utlysta tjänster objektivt, utan hänsyn taget till vem som ska utföra arbetet.
 
 Den effektiva beslutsfattaren frågar sig själv vad hens chef är riktigt duktig på, och ser till att denne har vad hen behöver för att göra ett bra jobb.
 
@@ -71,12 +71,12 @@ Den absolut viktigaste förmågan för effektivitet är förmågan att kunna kon
 
 Ju mer man bygger på styrkor desto mer medveten blir man om nödvändigheten att koncentrera sig på de viktigaste möjligheterna. Detta är det enda sättet att åstadkomma ordentliga resultat.
 
-Den effektive beslutsfattaren är notorisk kring alla program, aktiviteter och uppgifter. Hen frågar sig alltid: &quot;Är detta fortfarande nödvändigt att göra?&quot;
+Den effektive beslutsfattaren är notorisk kring alla program, aktiviteter och uppgifter som letar sig in i kalendern. Hen frågar sig alltid: &quot;Är detta fortfarande nödvändigt att göra?&quot;
 
-&quot;Mod, snarare än analys, sätter de huvudsakliga riktlinjerna för prioritering:&quot;
-- **Fokusera på möjligheter** snarare än problem
-- **Välj din egen riktning** snarare än att följa efter
-- **Sikta högt** snarare än att göra något som är säkert och tryggt
+För att åstadkomma verkligt betydelsefulla resultat bör man ibland låta mod snarare än analys styra hur man prioriterar:
+- **Fokusera på möjligheter** snarare än problem även om det kan innebära att ett problem förblir olöst en tid.
+- **Välj din egen riktning** snarare än att följa efter även om du riskerar att stå ensam om du misslyckas.
+- **Sikta högt** snarare än att göra något som är säkert och tryggt.
 
 
 ### Att fatta effektiva beslut
