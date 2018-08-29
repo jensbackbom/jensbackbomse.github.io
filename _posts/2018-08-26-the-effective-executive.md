@@ -6,7 +6,7 @@ summary: Sammanfattning av ett standardverk inom produktivitet.
 
 Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok *The Effective Executive* då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning, så jag tänkte försöka sammanfatta bokens huvuddrag.
 
-Personligen är mina viktigaste lärdomar från boken följande:
+Personligen är mina främsta lärdomar från boken följande:
 
 - **Min viktigaste arbetsuppgift är att leta efter möjligheter att bidra** vilket även inkluderar att *prioritera* de viktigaste möjligheterna och se till att de realiseras. Med &quot;möjligheter&quot; menas i första hand sätt som jag kan bidra till min organisations framgång visavi sin omvärld. Detta innebär att ta ansvar, ibland utanför sina arbetsuppgifter och ibland på ett sätt som kräver att man säger nej ibland.
 - **Se till att boka in eget arbete i din kalender** - det kan vara det enda sättet att kunna arbeta koncentrerat och bibehålla fokus på sina mål över tid.
