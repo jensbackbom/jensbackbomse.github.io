@@ -4,9 +4,14 @@ title: The Effective Executive av Peter Drucker
 summary: Sammanfattning av ett standardverk inom produktivitet.
 ---
 
-Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok *The Effective Executive* då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning.
+Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok *The Effective Executive* då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning, så jag tänkte försöka sammanfatta bokens huvuddrag.
 
-Nedan följer ett försök att sammanfatta några av de viktigaste lärdomarna från *The Effective Executive*:
+Personligen är mina viktigaste lärdomar från boken följande:
+
+- **Min viktigaste arbetsuppgift är att leta efter möjligheter att bidra** vilket även inkluderar att *prioritera* de viktigaste möjligheterna och se till att de realiseras. Med &quot;möjligheter&quot; menas i första hand sätt som jag kan bidra till min organisations framgång visavi sin omvärld. Detta innebär att ta ansvar, ibland utanför sina arbetsuppgifter och ibland på ett sätt som kräver att man säger nej ibland.
+- **Se till att boka in eget arbete i din kalender** - det kan vara det enda sättet att kunna arbeta koncentrerat och bibehålla fokus på sina mål över tid.
+- **Identifiera dina och andras styrkor** och fundera på hur de kan användas på bästa sätt i din organisation, vilket inte nödvändigtvis behöver vara de nuvarande arbetsuppgifterna.
+
 
 ### Vad ska man kalla boken på svenska?
 Drucker definierar en *Executive* som en kunskapsarbetare (definitionen av detta är att arbetet inte riktigt går att kvantifiera annat än i form av dess slutgiltiga resultat) vars dagliga arbete har en relativt stor och direkt påverkan på sin organisation. Detta inkluderar alltså flera roller, t.ex. behöver det inte nödvändigtvis vara en chef. Vidare så är en *Executive* någon som förväntas vara duktig på att fatta beslut i allmänhet, samt kunna ta ansvar för vad hen ska göra med sin tid. Jag lutar åt att den bästa svenska översättningen av *Executive* är &quot;beslutsfattare&quot; snarare än t.ex. &quot;direktör&quot;.
@@ -25,9 +30,9 @@ Drucker hävdar att förmågan att vara effektiv är en fråga om vana och rutin
 
 
 ### Att disponera sin tid effektivt
-Beslutsfattares tid är andras egendom. Kunder och kollegor kommer ständigt att vilja göra anspråk på beslutsfattarens tid, och det är upp till denne att se till att det finns tid över till det arbete som har störst påverkan på organisationens resultat. Det är därför viktigt för beslutsfattaren att veta vart dennes tid tar vägen.
+Beslutsfattares tid är andras egendom. Kunder och kollegor kommer ständigt att vilja göra anspråk på beslutsfattarens tid, och det är upp till denne att se till att det finns tid över till det arbete som har störst påverkan på organisationens resultat. Det är därför viktigt för beslutsfattaren att disponera sin tid rätt.
 
-Först och främst bör man ta reda på vart ens tid tar vägen. Sedan bör man försöka kapa bort tidstjuvar. Till sist bör man försöka konsolidera tid så att man batchar samma typ av aktivitet till samma tillfälle. Detta är ett av bokens huvudbudskap, så det är värt att repetera:
+Först och främst bör man ta reda på vart ens tid *tar vägen*. Sedan bör man försöka *kapa bort tidstjuvar*. Till sist bör man försöka *konsolidera* tid så att man batchar samma typ av aktivitet till samma tillfälle. Detta är ett av bokens huvudbudskap, så det är värt att repetera:
 
 - **Kartlägg tidsåtgång**
 - **Kapa tidstjuvar**
