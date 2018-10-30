@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jens Bäckbom</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2018-08-25T16:00:34+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://www.jensbackbom.se/atom.xml" rel="self"/>
+ <link href="http://www.jensbackbom.se/"/>
+ <updated>2018-10-30T12:11:19+01:00</updated>
+ <id>http://www.jensbackbom.se</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
@@ -13,40 +13,87 @@
 
  
  <entry>
-   <title>Verktyg för att arbeta effektivt</title>
-   <link href="http://localhost:4000/2018/08/20/smarta-verktyg/"/>
-   <updated>2018-08-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/08/20/smarta-verktyg</id>
-   <content type="html">&lt;p&gt;Nedanstående är en sammanfattning av fiffiga verktyg och funktioner som jag ofta använt själv eller blivit rekommenderad de senaste åren. Tänkte försöka hålla denna lista levande så tipsa gärna om fler!&lt;/p&gt;
+   <title>Om studieteknik</title>
+   <link href="http://www.jensbackbom.se/2018/10/26/studietekniker-for-livslangt-larande/"/>
+   <updated>2018-10-26T00:00:00+02:00</updated>
+   <id>http://www.jensbackbom.se/2018/10/26/studietekniker-for-livslangt-larande</id>
+   <content type="html">&lt;p&gt;Jag är ett stort fan av livslångt lärande, och jag tror att det är nödvändigt att man lär sig nya saker hela tiden för att inte
+stagnera i såväl sitt privatliv som professionellt. För att göra lärande effektivt är det bra att först lära sig lite om
+&lt;em&gt;studieteknik&lt;/em&gt;. Nedan följer några tips och metoder som jag plockat upp längs vägen, bland annat under min militärtjänstgöring där
+vi förväntades lära oss några hundra nya ryska glosor per vecka.&lt;/p&gt;
 
-&lt;p&gt;Verktyg jag använt &lt;em&gt;själv&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Till att börja med är det bra att förstå lite om hur hjärnan fungerar, i alla fall på en övergripande nivå. Om man inte satsar
+på en karriär inom medicin och/eller neurovetenskap så behöver man inte känna till vad hjärnans olika delar heter, även om
+många tycker om att låta seriösa genom att prata om hippocampus och främre pannloben. Det man behöver känna till om hjärnan
+ur studietekniksperspektiv är:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Scrivener&lt;/strong&gt; (&lt;a href=&quot;https://www.literatureandlatte.com/scrivener/&quot;&gt;https://www.literatureandlatte.com/scrivener/&lt;/a&gt;) - ett fantastiskt verktyg som innehåller allt du behöver för att skriva längre texter såsom böcker, manus, rapporter eller artiklar. Jag använde det själv för att skriva min bok Tänka, rätt och fel. Innan jag provade det var jag väldigt skeptisk till att något verktyg skulle kunna göra jobbet bättre än t.ex. vanliga textredigerare eller Word, men Scriveners funktioner för att hantera research, sortera om material m.m. gör hantering av större projekt extremt smidiga.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hjärnan är en associationsmaskin&lt;/strong&gt; som hela tiden kopplar ihop de nya fenomen/ord/intryck vi utsätts för. Om vi t.ex. kopplat ihop det spanska ordet &lt;em&gt;perro&lt;/em&gt; med det svenska ordet &lt;em&gt;hund&lt;/em&gt; samt med en bild av en hund så kan vi komma ihåg det både när vi tänker på det svenska ordet och när vi ser en hund.
+Ju fler kopplingar till något, desto lättare är det att komma ihåg det. Lärande handlar i stort om att skapa kopplingar/associationer till det vi vill lära oss så att det blir lättare att minnas, och &lt;em&gt;effektivt&lt;/em&gt; lärare handlar om att få hjärnan att skapa kopplingar så fort
+som möjligt samt se till att dessa är många och starka.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hjärnans kopplingar skapas bäst när vi sover&lt;/strong&gt; så något av det bästa man kan göra för att lära sig är att se till att sova ordentligt.
+Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär man sig, så det lönar sig att börja studera något i god tid.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Moom&lt;/strong&gt; (&lt;a href=&quot;https://manytricks.com/moom/&quot;&gt;https://manytricks.com/moom/&lt;/a&gt;) - gör att man kan arrangera fönster i Mac bredvid varandra, ovanför varandra etc. utan att behöva ändra storlek på dem manuellt. Delar av Mooms funktionalitet finns inbyggda i Windows, men för Mac är programmet väldigt användbart.&lt;/p&gt;
+&lt;h3 id=&quot;deliberate-practice&quot;&gt;Deliberate practice&lt;/h3&gt;
+&lt;p&gt;Repetition är kunskapens moder. Ju fler tillfällen du repeterar desto bättre sitter kunskaperna. Under min värnplikt rekomennderades det att plugga in glosorna så tidigt som möjligt, helst redan första kvällen så att man kunde ägna alla dagar fram till provet åt att repetera. Man vill dock repetera effektivt och fokusera på de saker som är svåra att lära sig, s.k. &lt;em&gt;deliberate practice&lt;/em&gt;. Tänk dig t.ex. att du vill lära dig spela gitarr. Om du lär dig tre ackord och sedan tillbringar all din vakna tid med att repetera en låt som består av dessa tre ackord så har du visserligen ägnat mycket tid åt repetition, men tror inte att du kommer bli bättre på att spela gitarr av att göra så. Proffsmusiker är förstås medvetna om detta och fokuserar därför sin repetition på de svåraste passagerna i musikstyckena.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sublime Text&lt;/strong&gt; (&lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;https://www.sublimetext.com/&lt;/a&gt;) - jag öppnar ofta Sublime enbart för att använda dess funktion att markera och ändra många saker på en gång, t.ex. för att redigera data som jag sedan ska bearbeta i Excel. Det finns förstås många andra editorer som har samma funktionalitet (t.ex. Atom samt Vim/Emacs/etc) och smaken är delad, men att ha minst en av dessa i sin verktygsarsenal är väldigt användbart.&lt;/p&gt;
+&lt;h3 id=&quot;sömn&quot;&gt;Sömn&lt;/h3&gt;
+&lt;p&gt;Som tidigare nämnts skapas associationer och därmed lärande när vi sover. Det är dock viktigt att man får en ordentlig natts sömn för att lärandet ska fungera - om man inte kommer ner i djupsömn eller sover för få timmar så sätter sig inte kunskaperna lika bra. Ofta räcker det inte med en natt om man vill komma ihåg det man lärt sig, så den sista natten inför provet bör man helst inte försöka plugga in någonting nytt.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Pivottabeller&lt;/strong&gt; (i Excel eller GoogleDocs) - detta är ju inget verktyg utan en funktion i Excel, men om du inte upptäckt pivottabeller så har du verkligen gått miste om något. Arbetar du mycket i Excel känner du säkert även till vad man använder Ctrl+pil, Shift+pil, Ctrl+Shift+pil (byt ut Ctrl mot Cmd på Mac) samt F2 och F4 (Cmd+u samt Ctrl+t på Mac), om inte så kan du spara väldigt mycket tid i ditt Excelarbete.&lt;/p&gt;
+&lt;h3 id=&quot;associationer&quot;&gt;Associationer&lt;/h3&gt;
+&lt;p&gt;Hjärnan minns genom att associera, och oavsett vad du tidigare hört om s.k. &lt;em&gt;lärstilar&lt;/em&gt; så associerar hjärnan lättast till bilder och händelser. Ett tips för att lära sig nya ord är därför att försöka hitta något som låter ungefär som det ord du vill lära dig, samt försöka visualisera detta framför sig i en dramatisk (och helst lite sjuk) situation. Jag minns när jag skulle försöka lära mig det ryska ordet för “bjuda in”, &lt;em&gt;приглашать&lt;/em&gt;. Ordet uttalas ungefär “priglashatt” och påminner inte om något ord på svenska eller engelska, så för att minnas det behövde jag ta till en sjuk association. Jag tyckte ordet lät ungefär som &quot;prygla katt&quot;, så för att minnas det föreställde jag mig att jag blev inbjuden till en fest där vi skulle misshandla katter. Jättesjukt, jag vet. Men jag lärde mig ordet snabbt.&lt;/p&gt;
 
-&lt;p&gt;Verktyg som jag blivit &lt;em&gt;tipsad om&lt;/em&gt;:&lt;/p&gt;
+&lt;h3 id=&quot;recall&quot;&gt;Recall&lt;/h3&gt;
+&lt;p&gt;Ett väldigt vanligt misstag när man studerar är att man läser en text om och om igen och hoppas att det man läser ska sätta sig efter ett tag. Ju fler gånger man läser den desto mer vaggas man in i en falsk känsla av trygghet iom att man känner igen det man läst. När man sedan ska skriva prov inser man att man inte minns någonting av det man läst. Varför är det så?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;TextExpander&lt;/strong&gt; (&lt;a href=&quot;https://textexpander.com/&quot;&gt;https://textexpander.com/&lt;/a&gt;) - gör det möjligt att skriva en lång text med hjälp av ett kortkommando. T.ex. kan kortkommandot “kommerater” bli ett helt litet mail i stil med “Hej, Tack för ditt mail - jag tar en titt och återkommer inom kort. Mvh, Jens”. Motsvarande funktion finns även inbyggd i iPhone, där jag bl.a. har lagt till en autocomplete så att “p81” ger mitt personnummer som förslag.&lt;/p&gt;
+&lt;p&gt;Det visar sig att det är stor skillnad på att lära sig &lt;em&gt;känna igen&lt;/em&gt; något passivt och att &lt;em&gt;kunna återge&lt;/em&gt; det man lärt sig. När man läst en text bör man därför testa sin förmåga till &quot;recall&quot;, dvs att återge det man läst direkt ur minnet. Testfrågor är ett sätt att åstadkomma detta, ett annat är att försöka återge det man läst med sina egna ord.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Dux-Soup&lt;/strong&gt; (&lt;a href=&quot;https://www.dux-soup.com/&quot;&gt;https://www.dux-soup.com/&lt;/a&gt;) - ett lika nischat som spännande verktyg i form av en Chrome-plugin som automatiskt besöker en stor mängd LinkedIn-kontakter efter att man t.ex. gjort en sökning. På så sätt kan väldigt många LinkedIn-användare se att man besökt deras profil, vilket kan vara användbart om man t.ex. har en tagline som säger att man rekryterar el dyl. Premiumversionen gör det även möjligt att spara ner nyckelinformation om varje profil man besöker, men jag är inte helt säker på att GDPR tycker om just den funktionen.&lt;/p&gt;
+&lt;h3 id=&quot;spaced-repetition&quot;&gt;Spaced repetition&lt;/h3&gt;
+&lt;p&gt;För att det ska sjunka in hur viktigt det är med repetition så repeterar jag ännu en gång: Ju mer man repeterar något desto bättre sätter det sig i minnet. När man sätter sig för att repetera t.ex. ett antal glosor märker man dock snart att man har lättare att komma ihåg några av dem medan andra är desto svårare att minnas. En gyllene regel för effektivt lärande är därför att &lt;em&gt;ju lättare något är att komma ihåg desto mer sällan kan man repetera det&lt;/em&gt;. Detta kallas &lt;em&gt;spaced repetition&lt;/em&gt; och är en oerhört viktig princip för att optimera sin studietid.&lt;/p&gt;
 
-&lt;p&gt;Ett annat smart tips är att köpa min bok Tänka, rätt och fel hos &lt;a href=&quot;https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599&quot;&gt;Adlibris&lt;/a&gt; eller &lt;a href=&quot;https://www.bokus.com/bok/9789187905599/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre/&quot;&gt;Bokus&lt;/a&gt;, förhoppningsvis kan även den bidra till ökad produktivitet.&lt;/p&gt;
+&lt;h3 id=&quot;byt-perspektiv-och-miljö&quot;&gt;Byt perspektiv och miljö&lt;/h3&gt;
+&lt;p&gt;I och med att det är lättare att minnas något om man har många associationer till det bör man även försöka lära sig saker ur flera perspektiv så att hjärnan får fler &quot;ingångar &quot;. Detta kan t.ex. innebära:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;att lära sig ett ord genom att försöka koppla det till sin svenska motsvarighet&lt;/li&gt;
+  &lt;li&gt;att försöka hitta uttryck som liknar ordet&lt;/li&gt;
+  &lt;li&gt;att hitta så kallade &lt;em&gt;kognater&lt;/em&gt; (liknande ord) på andra språk, såsom window (ensgelska) - vindue (danska)&lt;/li&gt;
+  &lt;li&gt;att lyssna på musik, podcasts eller se på film som handlar om det man vill lära sig&lt;/li&gt;
+  &lt;li&gt;att byta studiemiljö (fungerar bättre än man kan tro!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gloslappar-det-ultimata-verktyget-för-lärande&quot;&gt;Gloslappar, det ultimata verktyget för lärande?&lt;/h3&gt;
+&lt;p&gt;Jag vill också slå ett slag för gamla hederliga gloslappar / flashcards, som är ett av de mest effektiva verktyg som finns för att lära sig ord eller annat som man vill kunna utantill. I språksammanahang fungerar gloslappar så att man skriver ordet man vill lära sig på ena sidan och den svenska översättningen på den andra. Man gör detta med alla ord man vill lära sig tills man har en hög av gloslappar. Sedan tar man den översta lappen, tittar på den svenska sidan och försöker minnas vad som står på andra sidan. Om man minns det direkt lägger man lappen åt sidan, minns man det inte tittar man på andra sidan och lägger sedan lappen längst bak i högen. Man fortsätter på samma sätt tills man inte har några lappar kvar i högen. Sedan blandar man alla lapparna och börjar om, kanske försöker man även att byta håll och utgå från den utländska sidan.&lt;/p&gt;
+
+&lt;p&gt;Precis samma metod går att använda för att lära sig andra koncept. Om man t.ex. läser företagsekonomi och vill lära sig &lt;em&gt;Porter’s Five Forces&lt;/em&gt; (de fem faktorer som bidrar till konkurrens och vinstmarginaler i en bransch) så kan man helt enkelt skriva de fem faktorerna på andra sidan gloslappen och använda samma studieteknik.&lt;/p&gt;
+
+&lt;p&gt;Varför är gloslappar då så effektiva? Därför att man med gloslappar kan kombinera flera av de principer som nämns ovan. När man tar upp en lapp måste man försöka minnas vad som står på andra sidan (&lt;strong&gt;recall&lt;/strong&gt;), detta koppplas sedan ihop med vad som står på framsidan av lappen (&lt;strong&gt;association&lt;/strong&gt;) och i och med att man lägger undan gloslappar som man lärt sig så fokuseras studierna på kvarvarande lappar (&lt;strong&gt;deliberate practice&lt;/strong&gt;). Gloslappar är dessutom hundra procent bärbara, så det går utmärkt att använda dem i alla möjliga miljöer (&lt;strong&gt;byta perspektiv&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;Om man är av den digitala sorten och föredrar appar framför papperslappar så kan jag varmt rekommendera appen Anki, en gloslappsapp med mycket bra stöd för spaced repetition.&lt;/p&gt;
+
+&lt;h3 id=&quot;att-lära-sig-metodik-och-praktisk-kunskap&quot;&gt;Att lära sig metodik och praktisk kunskap&lt;/h3&gt;
+&lt;p&gt;Hur skiljer sig lärande av utantillkunskap såsom språk från lärande av metodik såsom matematik, fysik, programmering eller för den delen praktisk kunskap såsom musicerande, skidåkning el dyl?&lt;/p&gt;
+
+&lt;p&gt;Det visar sig att flera principer ovan är fullt tillämpliga även här. Om du ser till att öva på det du har svårt för (deliberate practice), försöker återge metoder/tekniker ur minnet (recall) och sover ordentligt däremellan så lägger hjärnan pusslet åt dig och du kommer att märka att du plötsligt förstått metodiken eller behärskar tekniken. Om du någon gång försökt lära dig en svår passage i ett musikstycke och plötsligt en dag märkt att det går mycket lättare så är det precis detta som hänt.&lt;/p&gt;
+
+&lt;p&gt;Detta om &lt;em&gt;hur&lt;/em&gt; man bör tillväga när man lär sig nya saker, men &lt;em&gt;vad&lt;/em&gt; ska man satsa på att lära sig och &lt;em&gt;var&lt;/em&gt; ska man hitta studiematerialet/kunskapskällorna? Fortsättning följer…&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Effective Executive av Peter Drucker</title>
-   <link href="http://localhost:4000/2018/04/10/the-effective-executive/"/>
-   <updated>2018-04-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/04/10/the-effective-executive</id>
-   <content type="html">&lt;p&gt;Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok &lt;em&gt;The Effective Executive&lt;/em&gt; då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning.&lt;/p&gt;
+   <link href="http://www.jensbackbom.se/2018/08/26/the-effective-executive/"/>
+   <updated>2018-08-26T00:00:00+02:00</updated>
+   <id>http://www.jensbackbom.se/2018/08/26/the-effective-executive</id>
+   <content type="html">&lt;p&gt;Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok &lt;em&gt;The Effective Executive&lt;/em&gt; då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning, så jag tänkte försöka sammanfatta bokens huvuddrag.&lt;/p&gt;
 
-&lt;p&gt;Nedan följer ett försök att sammanfatta några av de viktigaste lärdomarna från &lt;em&gt;The Effective Executive&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Personligen är mina främsta lärdomar från boken följande:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Min viktigaste arbetsuppgift är att leta efter möjligheter att bidra&lt;/strong&gt; vilket även inkluderar att &lt;em&gt;prioritera&lt;/em&gt; de viktigaste möjligheterna och se till att de realiseras. Med &quot;möjligheter&quot; menas i första hand sätt som jag kan bidra till min organisations framgång visavi sin omvärld. Detta innebär att ta ansvar, ibland utanför sina arbetsuppgifter och ibland på ett sätt som kräver att man säger nej ibland.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Se till att boka in eget arbete i din kalender&lt;/strong&gt; - det kan vara det enda sättet att kunna arbeta koncentrerat och bibehålla fokus på sina mål över tid.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Identifiera dina och andras styrkor&lt;/strong&gt; och fundera på hur de kan användas på bästa sätt i din organisation, vilket inte nödvändigtvis behöver vara de nuvarande arbetsuppgifterna.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;vad-ska-man-kalla-boken-på-svenska&quot;&gt;Vad ska man kalla boken på svenska?&lt;/h3&gt;
 &lt;p&gt;Drucker definierar en &lt;em&gt;Executive&lt;/em&gt; som en kunskapsarbetare (definitionen av detta är att arbetet inte riktigt går att kvantifiera annat än i form av dess slutgiltiga resultat) vars dagliga arbete har en relativt stor och direkt påverkan på sin organisation. Detta inkluderar alltså flera roller, t.ex. behöver det inte nödvändigtvis vara en chef. Vidare så är en &lt;em&gt;Executive&lt;/em&gt; någon som förväntas vara duktig på att fatta beslut i allmänhet, samt kunna ta ansvar för vad hen ska göra med sin tid. Jag lutar åt att den bästa svenska översättningen av &lt;em&gt;Executive&lt;/em&gt; är &quot;beslutsfattare&quot; snarare än t.ex. &quot;direktör&quot;.&lt;/p&gt;
@@ -65,9 +112,9 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;att-disponera-sin-tid-effektivt&quot;&gt;Att disponera sin tid effektivt&lt;/h3&gt;
-&lt;p&gt;Beslutsfattares tid är andras egendom. Kunder och kollegor kommer ständigt att vilja göra anspråk på beslutsfattarens tid, och det är upp till denne att se till att det finns tid över till det arbete som har störst påverkan på organisationens resultat. Det är därför viktigt för beslutsfattaren att veta vart dennes tid tar vägen.&lt;/p&gt;
+&lt;p&gt;Beslutsfattares tid är andras egendom. Kunder och kollegor kommer ständigt att vilja göra anspråk på beslutsfattarens tid, och det är upp till denne att se till att det finns tid över till det arbete som har störst påverkan på organisationens resultat. Det är därför viktigt för beslutsfattaren att disponera sin tid rätt.&lt;/p&gt;
 
-&lt;p&gt;Först och främst bör man ta reda på vart ens tid tar vägen. Sedan bör man försöka kapa bort tidstjuvar. Till sist bör man försöka konsolidera tid så att man batchar samma typ av aktivitet till samma tillfälle. Detta är ett av bokens huvudbudskap, så det är värt att repetera:&lt;/p&gt;
+&lt;p&gt;Först och främst bör man ta reda på vart ens tid &lt;em&gt;tar vägen&lt;/em&gt;. Sedan bör man försöka &lt;em&gt;kapa bort tidstjuvar&lt;/em&gt;. Till sist bör man försöka &lt;em&gt;konsolidera&lt;/em&gt; tid så att man batchar samma typ av aktivitet till samma tillfälle. Detta är ett av bokens huvudbudskap, så det är värt att repetera:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Kartlägg tidsåtgång&lt;/strong&gt;&lt;/li&gt;
@@ -105,7 +152,7 @@
 
 &lt;p&gt;Ska man verkligen åstadkomma något exceptionellt bör man därför fokusera på människors huvudsakliga styrkor, och se till att dessa kompletterar varandra inom ett team.&lt;/p&gt;
 
-&lt;p&gt;En effektiv beslutsfattare som även är arbetsgivare eller chef ser till att designa organisations jobb objektivt, utan hänsyn taget till vem som ska utföra arbetet.&lt;/p&gt;
+&lt;p&gt;En effektiv beslutsfattare som även är arbetsgivare eller chef ser till att designa organisationens arbetsuppgifter/utlysta tjänster objektivt, utan hänsyn taget till vem som ska utföra arbetet.&lt;/p&gt;
 
 &lt;p&gt;Den effektiva beslutsfattaren frågar sig själv vad hens chef är riktigt duktig på, och ser till att denne har vad hen behöver för att göra ett bra jobb.&lt;/p&gt;
 
@@ -114,13 +161,13 @@
 
 &lt;p&gt;Ju mer man bygger på styrkor desto mer medveten blir man om nödvändigheten att koncentrera sig på de viktigaste möjligheterna. Detta är det enda sättet att åstadkomma ordentliga resultat.&lt;/p&gt;
 
-&lt;p&gt;Den effektive beslutsfattaren är notorisk kring alla program, aktiviteter och uppgifter. Hen frågar sig alltid: &quot;Är detta fortfarande nödvändigt att göra?&quot;&lt;/p&gt;
+&lt;p&gt;Den effektive beslutsfattaren är notorisk kring alla program, aktiviteter och uppgifter som letar sig in i kalendern. Hen frågar sig alltid: &quot;Är detta fortfarande nödvändigt att göra?&quot;&lt;/p&gt;
 
-&lt;p&gt;&quot;Mod, snarare än analys, sätter de huvudsakliga riktlinjerna för prioritering:&quot;&lt;/p&gt;
+&lt;p&gt;För att åstadkomma verkligt betydelsefulla resultat bör man ibland låta mod snarare än analys styra hur man prioriterar:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fokusera på möjligheter&lt;/strong&gt; snarare än problem&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Välj din egen riktning&lt;/strong&gt; snarare än att följa efter&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sikta högt&lt;/strong&gt; snarare än att göra något som är säkert och tryggt&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fokusera på möjligheter&lt;/strong&gt; snarare än problem även om det kan innebära att ett problem förblir olöst en tid.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Välj din egen riktning&lt;/strong&gt; snarare än att följa efter även om du riskerar att stå ensam om du misslyckas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sikta högt&lt;/strong&gt; snarare än att göra något som är säkert och tryggt.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;att-fatta-effektiva-beslut&quot;&gt;Att fatta effektiva beslut&lt;/h3&gt;
@@ -147,10 +194,37 @@
  </entry>
  
  <entry>
+   <title>Verktyg för att arbeta effektivt</title>
+   <link href="http://www.jensbackbom.se/2018/08/20/smarta-verktyg/"/>
+   <updated>2018-08-20T00:00:00+02:00</updated>
+   <id>http://www.jensbackbom.se/2018/08/20/smarta-verktyg</id>
+   <content type="html">&lt;p&gt;Nedanstående är en sammanfattning av fiffiga verktyg och funktioner som jag ofta använt själv eller blivit rekommenderad de senaste åren. Tänkte försöka hålla denna lista levande så tipsa gärna om fler!&lt;/p&gt;
+
+&lt;p&gt;Verktyg jag använt &lt;em&gt;själv&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scrivener&lt;/strong&gt; (&lt;a href=&quot;https://www.literatureandlatte.com/scrivener/&quot;&gt;https://www.literatureandlatte.com/scrivener/&lt;/a&gt;) - ett fantastiskt verktyg som innehåller allt du behöver för att skriva längre texter såsom böcker, manus, rapporter eller artiklar. Jag använde det själv för att skriva min bok Tänka, rätt och fel. Innan jag provade det var jag väldigt skeptisk till att något verktyg skulle kunna göra jobbet bättre än t.ex. vanliga textredigerare eller Word, men Scriveners funktioner för att hantera research, sortera om material m.m. gör hantering av större projekt extremt smidiga.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moom&lt;/strong&gt; (&lt;a href=&quot;https://manytricks.com/moom/&quot;&gt;https://manytricks.com/moom/&lt;/a&gt;) - gör att man kan arrangera fönster i Mac bredvid varandra, ovanför varandra etc. utan att behöva ändra storlek på dem manuellt. Delar av Mooms funktionalitet finns inbyggda i Windows, men för Mac är programmet väldigt användbart.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sublime Text&lt;/strong&gt; (&lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;https://www.sublimetext.com/&lt;/a&gt;) - jag öppnar ofta Sublime enbart för att använda dess funktion att markera och ändra många saker på en gång, t.ex. för att redigera data som jag sedan ska bearbeta i Excel. Det finns förstås många andra editorer som har samma funktionalitet (t.ex. Atom samt Vim/Emacs/etc) och smaken är delad, men att ha minst en av dessa i sin verktygsarsenal är väldigt användbart.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pivottabeller&lt;/strong&gt; (i Excel eller GoogleDocs) - detta är ju inget verktyg utan en funktion i Excel, men om du inte upptäckt pivottabeller så har du verkligen gått miste om något. Arbetar du mycket i Excel känner du säkert även till vad man använder Ctrl+pil, Shift+pil, Ctrl+Shift+pil (byt ut Ctrl mot Cmd på Mac) samt F2 och F4 (Cmd+u samt Ctrl+t på Mac), om inte så kan du spara väldigt mycket tid i ditt Excelarbete.&lt;/p&gt;
+
+&lt;p&gt;Verktyg som jag blivit &lt;em&gt;tipsad om&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TextExpander&lt;/strong&gt; (&lt;a href=&quot;https://textexpander.com/&quot;&gt;https://textexpander.com/&lt;/a&gt;) - gör det möjligt att skriva en lång text med hjälp av ett kortkommando. T.ex. kan kortkommandot “kommerater” bli ett helt litet mail i stil med “Hej, Tack för ditt mail - jag tar en titt och återkommer inom kort. Mvh, Jens”. Motsvarande funktion finns även inbyggd i iPhone, där jag bl.a. har lagt till en autocomplete så att “p81” ger mitt personnummer som förslag.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dux-Soup&lt;/strong&gt; (&lt;a href=&quot;https://www.dux-soup.com/&quot;&gt;https://www.dux-soup.com/&lt;/a&gt;) - ett lika nischat som spännande verktyg i form av en Chrome-plugin som automatiskt besöker en stor mängd LinkedIn-kontakter efter att man t.ex. gjort en sökning. På så sätt kan väldigt många LinkedIn-användare se att man besökt deras profil, vilket kan vara användbart om man t.ex. har en tagline som säger att man rekryterar el dyl. Premiumversionen gör det även möjligt att spara ner nyckelinformation om varje profil man besöker, men jag är inte helt säker på att GDPR tycker om just den funktionen.&lt;/p&gt;
+
+&lt;p&gt;Ett annat smart tips är att köpa min bok Tänka, rätt och fel hos &lt;a href=&quot;https://www.adlibris.com/se/bok/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre-9789187905599&quot;&gt;Adlibris&lt;/a&gt; eller &lt;a href=&quot;https://www.bokus.com/bok/9789187905599/tanka-ratt-fel-hur-du-undviker-vanliga-tankefel-och-anvander-hjarnan-battre/&quot;&gt;Bokus&lt;/a&gt;, förhoppningsvis kan även den bidra till ökad produktivitet.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Att rekrytera utvecklare på en stekhet marknad - några konkreta tips</title>
-   <link href="http://localhost:4000/2018/02/05/rekrytera-utvecklare/"/>
+   <link href="http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare/"/>
    <updated>2018-02-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/02/05/rekrytera-utvecklare</id>
+   <id>http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare</id>
    <content type="html">&lt;p&gt;Om du är en duktig programmerare så har du idag inga som helst problem att hitta jobb. Behärskar du tekniker där det råder stor brist på utvecklare kan du dessutom förhandla dig till en hel del förmåner såsom hög lön, möjlighet att jobba hemifrån, träna på arbetstid och få gratis lunch på jobbet. I vissa specialfall (om du t.ex. är riktigt vass på COBOL eller Sharepoint) så kan du i princip begära vilken lön / ersättning som helst.&lt;/p&gt;
 
 &lt;p&gt;Det motsatta gäller förstås om du vill &lt;em&gt;rekrytera&lt;/em&gt; programmerare, åtminstone om du inte heter Google eller Spotify. Att hitta programmerare samt övertyga hen om att jobba hos dig kan vara helt hopplöst svårt, och är du inte själv teknikkunnig så blir det inte lättare. Jag har genom tidigare arbete och företagande varit inblandad i en hel del rekrytering, och har över tid sett några olika taktiker för att hitta och behålla teknikkompetens. Nedan följer några tips på hur man kan gå tillväga:&lt;/p&gt;
@@ -195,9 +269,9 @@
  
  <entry>
    <title>Tänka, rätt och fel</title>
-   <link href="http://localhost:4000/2017/03/14/tanka-ratt-och-fel/"/>
+   <link href="http://www.jensbackbom.se/2017/03/14/tanka-ratt-och-fel/"/>
    <updated>2017-03-14T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/03/14/tanka-ratt-och-fel</id>
+   <id>http://www.jensbackbom.se/2017/03/14/tanka-ratt-och-fel</id>
    <content type="html">&lt;p&gt;För ett och ett halvt år sedan skapade jag onlinekursen ‘Tänk’ på DailyBitsOf. Jag hade nyligen läst och blivit inspirerad av en bok om populärmatematik, som fick mig att sätta ihop en handfull korta lektioner på temat ‘Vanliga felaktiga slutsatser’. Det visade sig finnas ett visst intresse för detta ämne, så jag kom efter några månader i kontakt med bokförlaget Roos &amp;amp; Tegnér som undrade om jag skulle vilja skriva en bok på samma tema.&lt;/p&gt;
 
 &lt;p&gt;Resultatet blev boken ‘Tänka, rätt och fel’ som släpptes på Roos &amp;amp; Tegnér förlag förra veckan. Den är ett försök att sammanställa en rad lärdomar kring hur man kan använda hjärnan mer effektivt, vilket kan innebära flera olika saker. Ibland kan det vara bra att känna till några vanliga felaktiga slutsatser så att man lättare kan undvika dem, såsom att blanda ihop korrelation och kausalitet eller orsak och verkan. Det kan också röra sig om att lära sig undvika (eller tillämpa!) olika former av marknadsföringsknep som är designade för att påverka köpbeslut, eller bli bättre på att tänka i termer av sannolikheter. Vår hjärna är ju designad för att hantera ett liv i naturen bland vilda djur, vilket ibland får oss att bli onödigt kategoriska. Det kan därför vara klokt att lära sig känna igen olika typfall när hjärnan drar förhastade slutsatser.&lt;/p&gt;
