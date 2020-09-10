@@ -4,8 +4,6 @@ title: Ett sätt att upptäcka bias
 summary: (essä av Paul Graham i översättning)
 ---
 
-(essä av Paul Graham i översättning)
-
 Detta kommer att förvåna många, men i vissa fall är det möjligt att upptäcka bias i en urvalsprocess (t.ex. rekrytering) utan att veta något om själva ansökningarna. Detta är spännande, för det innebär bland annat att man som utomstående kan avslöja någon annans bias vare sig denne vill det eller ej.
 
 Man kan använda denna teknik så länge (a) man har tillgång till ett slumpmässigt urval av de kandidater som valdes ut, (b) deras prestation efter urvalet har utvärderats och (c) prestationsförmågan är ungefär lika fördelad mellan de grupper man vill jämföra.
@@ -26,4 +24,4 @@ Jag förutspår att denna teknik kommer att bli vanligare i framtiden. Den data 
 [2] Som Paul Buchheit noterar så exkluderade First Round sin bästa investering (Uber) ur studien. Men även om det i vissa sammanhang är en god idé att exkludera outliers från data så är inte studier av startups (där avkastningen helt och hållet kommer från outliers) ett sådant sammanhang.
 
 
-(Publicerad med tillstånd av författaren, vars texter i original går att hitta på http://www.paulgraham.com/articles.html.)
+(Essä av Paul Graham i översättning - publicerad med tillstånd av författaren, vars texter i original går att hitta på http://www.paulgraham.com/articles.html.)
