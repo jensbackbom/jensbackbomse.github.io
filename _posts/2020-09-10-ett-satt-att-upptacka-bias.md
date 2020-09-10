@@ -24,4 +24,4 @@ Jag förutspår att denna teknik kommer att bli vanligare i framtiden. Den data 
 [2] Som Paul Buchheit noterar så exkluderade First Round sin bästa investering (Uber) ur studien. Men även om det i vissa sammanhang är en god idé att exkludera outliers från data så är inte studier av startups (där avkastningen helt och hållet kommer från outliers) ett sådant sammanhang.
 
 
-(Essä av Paul Graham i översättning - publicerad med tillstånd av författaren, vars texter i original går att hitta på http://www.paulgraham.com/articles.html.)
+(Essä av Paul Graham i översättning - publicerad med tillstånd av författaren, vars texter i original går att hitta på [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html).)

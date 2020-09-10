@@ -3,7 +3,7 @@ layout: page
 title: Om mig
 
 ---
-Jag heter Jens Bäckbom och arbetar som Investment manager på Almi Invest, där jag försöker hitta lovande startups att investera i. Jag sitter för närvarande i styrelsen för fyra bolag ([Learnster](http://www.learnster.com/), [Roaring.io](Roaring.io), [Typelane](http://www.typelane.com) och [EVAM Systems](http://www.evam.life)) och är adjungerad i ytterligare två ([Alva Labs](http://www.alvalabs.io) och [ZealID](http://www.zealid.com/)).
+Jag heter Jens Bäckbom och arbetar som Investment manager på Almi Invest, där jag försöker hitta lovande startups att investera i. Jag sitter för närvarande i styrelsen för fyra bolag ([Learnster](http://www.learnster.com/), [Roaring.io](Roaring.io), [Lingio](http://www.lingio.com/), [Typelane](http://www.typelane.com) och [EVAM Systems](http://www.evam.life)) och är adjungerad i ytterligare två ([Alva Labs](http://www.alvalabs.io) och [ZealID](http://www.zealid.com/)).
 
 Innan jag började arbeta på Almi Invest 2017 var jag entreprenör i nio år, och drev bl.a. bolagen [Benchmarking Alliance](http://www.benchmarkingalliance.com) och [A3J Consulting](http://www.a3j.se). I dessa bolag arbetade jag med allt från systemutveckling (framför allt i Python/Django och diverse javascript-ramverk) till affärsutveckling, försäljning och marknadsföring.
 
