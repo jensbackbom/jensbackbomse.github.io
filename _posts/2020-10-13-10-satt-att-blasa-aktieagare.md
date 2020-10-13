@@ -2,9 +2,6 @@
 layout: post
 title: 10 sätt att blåsa en minoritetsägare
 ---
-
-*TL;DR: Få ett aktieägaravtal på plats när du startar bolag eller investerar i en startup!*
-
 Låt säga att du startar ett bolag tillsammans med några vänner eller investerar i en startup. Sannolikheten är stor att du då blir minoritetsägare, dvs att du äger mindre än 50% av aktierna i bolaget. Även om den största risken med unga bolag är att de inte lyckas bli lönsamma och stå på egna ben så finns det även en del risker med att vara minoritetsägare, särskilt om man inte har ett aktieägaravtal. Den övergripande risken är att pengar eller andra slags värden plockas ut ur bolaget på ett sätt som missgynnar minoritetsägaren - nedan följer några exempel på hur detta kan gå till:
 
 1. Majoritetsägarna kan (via styrelsen) **säga upp dig** från din eventuella anställning i bolaget. Visserligen har vi arbetsrätt som förhindrar detta i viss mån, men i praktiken så går det alltid att säga upp någon om man är beredd att betala upp till 18 månadslöner i skadestånd.
