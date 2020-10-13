@@ -1,0 +1,27 @@
+---
+layout: post
+title: 10 sätt att blåsa en minoritetsägare
+---
+
+*TL;DR: Få ett aktieägaravtal på plats när du startar bolag eller investerar i en startup!*
+
+Låt säga att du startar ett bolag tillsammans med några vänner eller investerar i en startup. Sannolikheten är stor att du då blir minoritetsägare, dvs att du äger mindre än 50% av aktierna i bolaget. Även om den största risken med unga bolag är att de inte lyckas bli lönsamma och stå på egna ben så finns det även en del risker med att vara minoritetsägare, särskilt om man inte har ett aktieägaravtal. Den övergripande risken är att pengar eller andra slags värden plockas ut ur bolaget på ett sätt som missgynnar minoritetsägaren - nedan följer några exempel på hur detta kan gå till:
+
+1. Majoritetsägarna kan (via styrelsen) **säga upp dig** från din eventuella anställning i bolaget. Visserligen har vi arbetsrätt som förhindrar detta i viss mån, men i praktiken så går det alltid att säga upp någon om man är beredd att betala upp till 18 månadslöner i skadestånd.
+2. Majoritetsägarna kan (via styrelsen) avtala om **nya, högre löner / provisionsupplägg / bonusprogram** till utvalda anställda (t.ex. övriga delägare). Detta gör att vinsten minskar i bolaget och att det blir mindre pengar över till dig.
+3. Övriga ägare kan besluta om en nyemission, vilket ger dig valet att antingen stoppa in mer pengar i bolaget för att försvara din ägarandel eller se ditt ägande minska. Om övriga ägare dessutom avtalat om högre löner till sig själva kan det förstås bli svårt för dig att ha råd att delta i en nyemission.
+4. Om du (t.ex. efter en rad nyemissioner som du inte hade råd att delta i) äger mindre än 10% av aktierna i bolaget så kan övriga ägare **tvångsinlösa** dina aktier. Detta är förvisso en komplicerad process, men kan ändå bli en bra affär för majoritetsägarna om bolaget i ett senare skede växer.
+5. Övriga ägare kan **sälja sina aktier** dyrt till tredje part utan att du får en krona på affären. Om ni inte har avtalat om s.k. tag-along så har du ingen rätt att sälja dina aktier bara för att någon annan säljer. Detta gör att bolaget kan tas över av en ny ägare och att du blir sittande kvar som minoritetsägare utan något att säga till om. (Detta måste förstås inte vara dåligt, om inte den nya ägaren även har planerat att driva igenom någon av punkterna 1-4 vill säga...)
+6. En variant av punkt 5. är också att övriga ägare överlåter sina aktier till ett **gemensamt holdingbolag** (där inte du är ägare) som sedan säljs. En känd svensk entreprenör tog t.ex. in minoritetsinvesterare i sitt svenska bolag, för att sedan utnyttja en lucka i aktieägaravtalet och starta ett internationellt moderbolag som sedermera såldes dyrt.
+7. Övriga ägare kan säga upp sig, **starta ett nytt bolag** utan dig och locka över kunderna dit istället. Detta är framför allt möjligt i tjänsteföretag där medarbetarna utgör det största värdet.
+8. Övriga ägare kan **licensiera ut ert bolags teknik** billigt till egna bolag och sälja den där istället. Detta skulle förmodligen gå att angripa juridiskt, men då måste du ha råd att driva en sådan process samt kunna bevisa att licensieringen inte var marknadsmässig.
+
+Nu är det inte bara minoritetsägare som är i riskzonen - ibland kan faktiskt även majoritetsägare få problem om de har en minoritet som trilskas, såsom vid aktieöverlåtelser. Det är t.ex. inte helt ovanligt att en möjlig köpare bara vill köpa ett bolag om hen får köpa alla utestående aktier, men om en minoritetsägare som äger 1% av aktierna då sätter sig på tvären så kan man hamna i en jobbig situation. Samma sak gäller i en budstrid: Om någon vill ta över kontrollen över ett bolag genom att köpa en majoritet av aktierna så kan en sådan minoritetsägare bli "vågmästare" och i princip begära vilket pris som helst för sina aktier. Detta hände bl.a. Petter Stordalen då han hamnade i budstrid med ett amerikanskt riskkapitalbolag som ville köpa ut Choice hotels från börsen.
+
+Det viktigaste sättet att minska risken för ovanstående är att skriva ett aktieägaravtal som reglerar hur beslut, aktieöverlåtelser och värdeöverföringar ska gå till. Det finns många bra mallar på nätet för detta - hör av er till mig om ni inte hittar någon så kan jag försöka sätta ihop er med lämpligt proffs på området.
+
+Betyder det att man sitter säkert i båten bara för att man har ett aktieägaravtal? Inte nödvändigtvis. Jag har t.ex. sett fall där majoritetsägarna betett sig illa mot en person för att få denne att säga upp sig och därmed utlösa en **utköpsklausul** i aktieägaravtalet. Eller ännu värre: Hur ett argt mail efter några glas vin en fredagkväll kom att tolkas som en uppsägning (vilket utlöste en liknande klausul). Här är det viktigt att känna till att uppsägning är ganska löst reglerat i svensk lagstiftning och att man därför kan behöva vara försiktig med hur man uttrycker sig i skrift.
+
+Frågar man en jurist så kan man få en ganska mörk bild av alla risker det innebär att vara aktieägare. Om man bara har ett vettigt aktieägaravtal på plats och inte skriver arga mail i affekt så är man dock för det mesta på den säkra sidan.
+
+Frågor på detta? Hör av dig! Jag nås på [Twitter](https://twitter.com/JensBackbom) eller [LinkedIn](https://www.linkedin.com/in/jensbackbom/).
