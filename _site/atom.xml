@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jens Bäckbom</title>
- <link href="http://www.jensbackbom.se/atom.xml" rel="self"/>
- <link href="http://www.jensbackbom.se/"/>
- <updated>2018-10-30T12:11:19+01:00</updated>
- <id>http://www.jensbackbom.se</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-10-15T16:53:57+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
@@ -13,10 +13,172 @@
 
  
  <entry>
+   <title>10 sätt att blåsa en minoritetsägare</title>
+   <link href="http://localhost:4000/2020/10/13/10-satt-att-blasa-aktieagare/"/>
+   <updated>2020-10-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/10/13/10-satt-att-blasa-aktieagare</id>
+   <content type="html">&lt;p&gt;Låt säga att du startar ett bolag tillsammans med några vänner eller investerar i en startup. Sannolikheten är stor att du då blir &lt;em&gt;minoritetsägare&lt;/em&gt;, dvs att du äger mindre än 50% av aktierna i bolaget. Även om den största risken med unga bolag är att de inte lyckas bli lönsamma och stå på egna ben så finns det även en del risker med att vara minoritetsägare, särskilt om man inte har ett aktieägaravtal. Den övergripande risken är att pengar eller andra slags värden plockas ut ur bolaget på ett sätt som missgynnar minoritetsägaren - nedan följer några exempel på hur detta kan gå till:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Majoritetsägarna kan (via styrelsen) &lt;strong&gt;säga upp dig&lt;/strong&gt; från din eventuella anställning i bolaget. Visserligen har vi arbetsrätt som förhindrar detta i viss mån, men i praktiken så går det alltid att säga upp någon om man är beredd att betala upp till 18 månadslöner i skadestånd.&lt;/li&gt;
+  &lt;li&gt;Majoritetsägarna kan (via styrelsen) avtala om &lt;strong&gt;nya, högre löner / provisionsupplägg / bonusprogram&lt;/strong&gt; till utvalda anställda (t.ex. övriga delägare). Detta gör att vinsten minskar i bolaget och att det blir mindre pengar över till dig. Aktiebolagslagen ger dig förvisso ett visst skydd mot detta, men så länge de nya lönerna är marknadsmässiga så kan det vara svårt att göra rättslig sak av det.&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan besluta om en &lt;strong&gt;nyemission&lt;/strong&gt;, vilket ger dig valet att antingen stoppa in mer pengar i bolaget för att försvara din ägarandel eller se ditt ägande minska. Så länge nyemissionen sker till en rimlig bolagsvärdering så förlorar du egentligen inget på detta (du får en mindre bit av en större kaka), men ofta sker denna typ av emissioner till en låg kurs för att åstadkomma en större utspädning. Om övriga ägare dessutom avtalat om högre löner till sig själva kan det förstås bli svårt för dig att ha råd att delta i en nyemission.&lt;/li&gt;
+  &lt;li&gt;Om du (t.ex. efter en rad nyemissioner som du inte hade råd att delta i) äger mindre än 10% av aktierna i bolaget så kan övriga ägare &lt;strong&gt;tvångsinlösa&lt;/strong&gt; dina aktier. Detta är förvisso en komplicerad process, men kan ändå bli en bra affär för majoritetsägarna om bolaget i ett senare skede växer.&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan kalla till en bolagsstämma och &lt;strong&gt;välja ut dig ur styrelsen&lt;/strong&gt;. Detta minskar drastiskt din möjlighet till insyn och inflytande.&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan &lt;strong&gt;sälja sina aktier&lt;/strong&gt; dyrt till tredje part utan att du får en krona på affären. Förvisso inte specifikt för minoritetsägare, men ändå: Om ni inte har avtalat om s.k. tag-along så har du ingen rätt att sälja dina aktier bara för att någon annan säljer. Detta gör att bolaget kan tas över av en ny ägare och att du blir sittande kvar som minoritetsägare utan något att säga till om. (Detta måste förstås inte vara dåligt, om inte den nya ägaren även har planerat att driva igenom någon av punkterna 1-4 vill säga…)&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan säga upp sig, &lt;strong&gt;starta ett nytt bolag&lt;/strong&gt; utan dig och locka över kunder och nyckelpersonal dit istället. Även om de inte stjäl med sig själva produkten också så har de ju förmodligen stor vetskap om hur man snabbt kan ta fram en liknande produkt (om inte produkten t.ex. är patenterad och patentet ägs av ert gemensamma bolag).&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan &lt;strong&gt;licensiera ut ert bolags teknik&lt;/strong&gt; billigt till egna bolag och sälja den där istället. Detta skulle förmodligen gå att angripa juridiskt, men då måste du ha råd att driva en sådan process samt kunna bevisa att licensieringen inte var marknadsmässig.&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan helt &lt;strong&gt;ändra inriktning på verksamheten&lt;/strong&gt;. Om du är investerare i ett bolag så vill du förmodligen att bolaget har en skalbar affärsidé, men om du inte har makt att påverka verksamheten så kan denna plötsligt ändras till t.ex. en konsultverksamhet eller liknande som inte alls har samma tillväxtpotential.&lt;/li&gt;
+  &lt;li&gt;Övriga ägare kan &lt;strong&gt;likvidera bolaget&lt;/strong&gt; eller &lt;strong&gt;sälja det till underpris&lt;/strong&gt;. Betänk detta: Om du investerar två miljoner i ett bolag i utbyte mot ett ägande på tjugo procent och bolaget sedan omedelbart likvideras så har du ju i värsta fall bara rätt till 400 000 kr (20% av två miljoner). Om någon då skulle lägga ett bud på, säg, 1.8 miljoner för att köpa bolaget så har ju så att säga alla utom du gjort en bra affär.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Nu är det inte bara minoritetsägare som är i riskzonen - ibland kan faktiskt även majoritetsägare få problem om de har en minoritet som trilskas, såsom vid aktieöverlåtelser. Det är t.ex. inte helt ovanligt att en möjlig köpare bara vill köpa ett bolag om hen får köpa alla utestående aktier, men om en minoritetsägare som äger 1% av aktierna då sätter sig på tvären så kan man hamna i en jobbig situation. Samma sak gäller i en budstrid: Om någon vill ta över kontrollen över ett bolag genom att köpa en majoritet av aktierna så kan en sådan minoritetsägare bli “vågmästare” och i princip begära vilket pris som helst för sina aktier. Detta hände bl.a. Petter Stordalen då han hamnade i budstrid med ett amerikanskt riskkapitalbolag som ville köpa ut Choice hotels från börsen.&lt;/p&gt;
+
+&lt;p&gt;Det viktigaste sättet att minska risken för ovanstående är att &lt;strong&gt;skriva ett aktieägaravtal&lt;/strong&gt; som reglerar hur beslut, aktieöverlåtelser och värdeöverföringar ska gå till. Det finns många bra mallar på nätet för detta - hör av er till mig om ni inte hittar någon så kan jag försöka sätta ihop er med lämpligt proffs på området.&lt;/p&gt;
+
+&lt;p&gt;Betyder det att man sitter säkert i båten bara för att man har ett aktieägaravtal? Inte nödvändigtvis. Jag har t.ex. sett fall där majoritetsägarna betett sig illa mot en person för att få denne att säga upp sig och därmed utlösa en utköpsklausul i aktieägaravtalet. Eller ännu värre: Hur ett argt mail efter några glas vin en fredagkväll kom att tolkas som en uppsägning (vilket utlöste en liknande klausul). Här är det viktigt att känna till att uppsägning är ganska löst reglerat i svensk lagstiftning och att man därför kan behöva vara försiktig med hur man uttrycker sig i skrift.&lt;/p&gt;
+
+&lt;p&gt;Frågar man en jurist så kan man få en ganska mörk bild av alla risker det innebär att vara aktieägare. Om man bara har ett vettigt aktieägaravtal på plats och inte skriver arga mail i affekt så är man dock för det mesta på den säkra sidan.&lt;/p&gt;
+
+&lt;p&gt;Frågor på detta? Hör av dig! Jag nås på &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt; eller &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kunskap som gör mer skada än nytta</title>
+   <link href="http://localhost:4000/2020/09/25/kunskap-som-gor-mer-skada-an-nytta/"/>
+   <updated>2020-09-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/09/25/kunskap-som-gor-mer-skada-an-nytta</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;(Essä av Paul Graham i översättning)&lt;/em&gt; Den mest skadliga kunskap du fick med dig från din skoltid var inte något som ingick i någon av kurserna. Det var hur man får bra betyg.&lt;/p&gt;
+
+&lt;p&gt;När jag studerade på universitet så fick jag en gång höra av en kursare att han aldrig brydde sig om vilka betyg han fick på tentor, utan bara vad han faktiskt lärde sig på kurserna. Det var första gången jag hörde något liknande, så jag hade svårt att glömma vad han sagt.&lt;/p&gt;
+
+&lt;p&gt;För mig (liksom för de flesta studenter) var måttet på lärande mycket viktigare än själva lärandet. Jag var visserligen ganska seriös och pluggade hårt. Men jag pluggade aldrig så hårt som när jag pluggade inför ett prov.&lt;/p&gt;
+
+&lt;p&gt;I teorin så är prov just vad det låter som - ett prov på vad du lärt dig i kursen. I teorin borde du inte behöva förbereda dig mer på ett prov i en kurs än vad du förbereder dig på ett blodprov. I teorin så lär du dig genom att gå på föreläsningar, läsa böckerna och göra uppgifterna - provet är bara ett mått på hur mycket du lärt dig när du gjort detta.&lt;/p&gt;
+
+&lt;p&gt;I praktiken (som alla som läser det här redan känner till) så är denna beskrivning av kurser och prov så långt från verkligheten att det är som att höra ett ords etymologi och inse att innebörden förändrats fullständigt. I praktiken så är “plugga inför ett prov” egentligen överflödigt, i och med att det bara är då man egentligen pluggar. Skillnaden mellan flitiga och lata studenter är hur hårt man pluggar inför prov. Ingen skulle t.ex. sitta uppe till sent på nätterna och plugga mitt i terminen.&lt;/p&gt;
+
+&lt;p&gt;Fastän jag var en duktig student själv så gick nästan hela min studietid ut på att få bra betyg. Många reagerar kanske på uttrycket “fastän” i föregående mening - är inte detta en tautologi? Är inte definitionen av en duktig student någon som får bra betyg på tentorna? Tyvärr har detta helt blandats ihop i dagens samhälle.&lt;/p&gt;
+
+&lt;p&gt;Men är det då så illa att blanda ihop lärande och betyg? Ja, riktigt dåligt till och med. Och det var inte förrän flera år efter college (när jag startade YCombinator) som jag insåg hur illa det är.&lt;/p&gt;
+
+&lt;p&gt;Jag visste förstås när jag var student att det är skillnad på att plugga inför provet och att faktiskt lära sig något. Eller åtminstone visste jag att det man råpluggar in i huvudet kvällen innan provet inte kommer att sitta kvar. Men det verkliga problemet är ett annat, nämligen att de flesta prov inte är i närheten av att testa det de är tänkt att testa.&lt;/p&gt;
+
+&lt;p&gt;Om prov verkligen utvärderade lärande så vore det inte så hemskt. Då skulle bra betyg och lärande hänga ihop (om än lite sent). Problemet är att det går att “hacka” nästan alla prov. De flesta som fått bra betyg på tentor vet detta, så till den milda grad att de slutat ifrågasätta det.&lt;/p&gt;
+
+&lt;p&gt;Låt oss till exempel säga att du går en kurs om medeltiden och det börjar närma sig sluttentamen. Denna tenta borde väl vara ett stickprov av din kunskap om medeltiden, eller hur? Dvs om du har några dagar på dig före tentan så borde väl det bästa sättet att tillbringa dessa dagar vara att läsa några av de bästa böcker du kan hitta om medeltiden? Om du gör det så borde du prestera bra på tentan.&lt;/p&gt;
+
+&lt;p&gt;Åh nej, skulle en erfaren student säga. Om du bara skulle läsa bra böcker om medeltiden så skulle det mesta du läst inte komma provet. Det är inte bra böcker du vill läsa, utan föreläsningsanteckningar och kurslitteratur. Och även bland detta material kan du strunta i det mesta, för det enda du bör fokusera på är sådant som rimligen kan omvandlas till en provfråga. Du vill hitta väldefinierade stycken information. Om någon del av kurslitteraturen innehåller en intressant diskussion om någon detalj i förbifarten så kan du gott strunta i den, för det låter sig inte omvandlas till en provfråga. Men om professorn säger att den Västliga schismen hade tre huvudsakliga orsaker eller att digerdöden fick tre huvudsakliga konsekvenser, då bör du känna till dem. Och huruvida dessa faktiskt var de tre orsakerna eller konsekvenserna är irrelevant. På den här tentan var de det.&lt;/p&gt;
+
+&lt;p&gt;På ett universitet finns det ofta extentor att få tag i, och dessa avgränsar ditt lärande ytterligare. Förutom att lära dig vilken typ av frågor din professor brukar ställa på föreläsningar så har du alltså tillgång till faktiska tentafrågor. Många professorer återanvänder dem. Vilket ju inte är så konstigt - har man undervisat samma kurs i 10 år så vore det svårt att inte göra det, åtminstone inte omedvetet.&lt;/p&gt;
+
+&lt;p&gt;I vissa kurser så har din professor även en ideologisk åsikt, som även du bör ta till dig för att göra bra ifrån dig på tentan. I matematik eller de “hårda vetenskaperna” är detta sällan nödvändigt, men i andra änden av spektrumet så kanske du inte ens kan bli godkänd om du inte lär dig att uttrycka din professors åsikt.&lt;/p&gt;
+
+&lt;p&gt;Att få ett bra betyg på en kurs i ämnet X är så väsensskilt från att lära sig mycket om X så att du kommer att behöva välja det ena eller det andra, och du kan inte klandra studenterna för att de väljer det som ger dem bra betyg. Alla kommer att utvärdera dem efter deras betyg - högre studier, arbetsgivare, stipendier och till och med deras föräldrar.&lt;/p&gt;
+
+&lt;p&gt;Jag tyckte om lärandet, och jag var särskilt förtjust i de papers och datorprogram jag skrev under min studietid. Men när jag precis hade lämnat in ett paper, skrev jag någonsin ett till för att det var kul? Såklart inte. Jag hade deadlines i andra kurser. Om det någonsin stod mellan lärande och att få bra betyg så valde jag betygen. Jag hade ju inte börjat universitet för att göra dåligt ifrån mig.&lt;/p&gt;
+
+&lt;p&gt;Alla som bryr sig om att få bra betyg måste spela med i detta, eller se sig bli omkörda av andra. Om man går på ett prestigefyllt universitet kommer detta att innebära att man blir omkörd av &lt;em&gt;alla&lt;/em&gt; andra, iom att man förmodligen inte skulle gå på det universitetet om man inte var en sån som brydde sig om betyg. Resultatet av detta är att studenter tävlar med varandra om att maximera skillnaden mellan lärande och betyg.&lt;/p&gt;
+
+&lt;p&gt;Varför är då prov så dåliga? Eller rättare sagt, varför går de att hacka? En erfaren programmerare skulle säga något i stil med: Hur enkelt är det generellt sett att hacka något vars avsändare inte bryr sig om att skydda det? Lätt som en plätt.&lt;/p&gt;
+
+&lt;p&gt;Om ett prov ges av en institution så är det nästan per automatik lätt att hacka. Anledningen att proven så konsekvent mäter något annat än den kunskapen de är avsedda att mäta är att de som skapat dem inte ansträngt sig nämnvärt för att skydda dem från hackande.&lt;/p&gt;
+
+&lt;p&gt;Men du kan egentligen inte beskylla lärarna för att deras prov går att hacka. Deras jobb är att undervisa, inte att konstruera prov som inte går att hacka. Det stora problemet är betygssystemet, eller mer specifikt att betyg blivit för viktiga. Om betyg bara var ett sätt för en lärare att berätta för en student vad denne gör rätt respektive fel (ungefär som en tränare gör med en idrottare) så skulle inte studenter ha någon anledning att försöka hacka testen. Men tyvärr spelar betyg efter en viss ålder mycket större roll än så. När du når en viss ålder så kommer du att bli bedömd varje gång någon undervisar dig.&lt;/p&gt;
+
+&lt;p&gt;Jag tog universitet som exempel här, men faktum är att universitetstentor är minst “hackvänliga”. De flesta prov man skriver under en livstid är sämre konstruerade, inklusive det prov som gör att man kommer in på universitetet. Om sättet att komma in på universitetet handlade om att ha en intellektuell potential som kunde mätas lika exakt som man mäter någots vikt så hade vi helt enkelt kunnat säga till alla tonåringar att de ska försöka “lära sig så mycket som möjligt” under sin skoltid och sedan inte tänka mer på saken. Men tittar man på hur strömlinjeformad antagningsprocessen för amerikanska universitet är så inser man att den är är som gjord för att hackas. För att ta sig igenom den behöver man ha bra resultat på kurser som i princip bara handlar om att memorera saker, ha deltagit i rätt aktiviteter på sin fritid, presterat bra på högskoleprov som är lika tillrättalagda som schack, samt skriva en uppsats som ingen riktigt vet hur den kommer att bedömas.&lt;/p&gt;
+
+&lt;p&gt;Förutom att högskoleprov o dyl är dåligt för vilka signaler de sänder så är de också dåliga för att de går att hacka. Dom är så hackvänliga att det finns en hel bransch som kretsar kring provförberedelser.&lt;/p&gt;
+
+&lt;p&gt;Varför är just detta prov så hackvänligt? Jag tror det beror på vad det syftar till att mäta. Även om den gängse uppfattningen är att man måste vara smart för att komma in på ett bra universitet så är det inte detta som antagningsavdelningarna på de finaste universiteten letar efter. Vad letar de då efter? De letar efter någon som inte bara är smart, utan beundransvärd i någon slags bredare bemärkelse. Och hur mäter man detta? Antagningsavdelningarna kan känna det på sig. Med andra ord tar de in studenter som de gillar.&lt;/p&gt;
+
+&lt;p&gt;Det universitetsantagning utvärderar är alltså huruvida du faller en viss grupp av människor i smaken. Denna typ av test går förstås att hacka. I och med att mycket dessutom står på spel när man söker till universitet så kommer detta test att hackas som inget annat. Det är därför det har så stort inflytande på ditt liv under en lång period.&lt;/p&gt;
+
+&lt;p&gt;Det är med andra ord inte konstigt varför gymnasieelever så ofta känner sig bortkopplade från världen. De är del i ett fullständigt artificiellt system.&lt;/p&gt;
+
+&lt;p&gt;Till råga på allt så är det inte detta slöseri med tid som är värst. Det värsta är att detta system lär dig att man vinner i livet genom att hacka dåligt utformade prov. Detta är ett mycket mer svårgenomskådat problem som jag inte kände till förrän jag såg andra människor råka ut för det.&lt;/p&gt;
+
+&lt;p&gt;När jag började agera rådgivare åt startupgrundare på Y Combinator (särskilt unga grundare) så blev jag ofta överraskad av hur dom så ofta krånglade till saker. Hur tar man in pengar? Vad är knepet för att få riskkapitalister att investera i ditt bolag? Jag försökte förklara för dem att det bästa sättet är att vara en bra investering. Även om du skulle lyckas lura en investerare att investera i en dålig startup så skulle du samtidigt lura dig själv. Du investerar ju tid i samma startup som du ber dem investera pengar i. Om det inte är en bra investering, varför sysslar du ens med detta själv?&lt;/p&gt;
+
+&lt;p&gt;Efter att ha tagit in detta budskap frågade de då: Men vad gör då en startup till en bra investering?&lt;/p&gt;
+
+&lt;p&gt;Jag berättade då att det som gör en startup lovande är &lt;em&gt;tillväxt&lt;/em&gt;, inte bara för investerare utan i allmänhet. Helst tillväxt i intäkter, men i andra hand i användare. Det de behövde göra var att få tag i många användare.&lt;/p&gt;
+
+&lt;p&gt;Hur får man då många användare? De hade många idéer om detta. De skulle behöva göra en stor lansering som skulle ge dem en massa “uppmärksamhet”. De behövde inflytelserika personer som kunde tala gott om dem. De visste till och med att de skulle behöva lansera en tisdag, för det är då man får mest uppmärksamhet.&lt;/p&gt;
+
+&lt;p&gt;Nej, sa jag, så får man inte många användare. Man får många användare genom att göra en riktigt bra produkt som många vill använda. Då kommer dessa personer dessutom att rekommendera produkten till sina vänner, vilket leder till exponentiell tillväxt.&lt;/p&gt;
+
+&lt;p&gt;Vid det här laget tänkte jag att just berättat något helt uppenbart för de här startupgrundarna: Att deras bolag skulle bli bra om de bara gjorde en bra produkt. Men deras reaktion påminde snarare om hur jag tror många fysiker reagerade första gången de hörde talas om relativitetsteorin. En blandning av häpnad och misstänksamhet - något så konstigt kan väl ändå inte stämma? OK, sa dom. Men kan du ändå introducera oss till den-och-den inflytelserika personen? Och vi vill ändå lansera en tisdag.&lt;/p&gt;
+
+&lt;p&gt;Ibland tar det grundare flera år att förstå detta enkla budskap. Men inte för att de är lata eller dumma. De är helt enkelt oförmögna att se sanningen som stirrar dem i vitögat.&lt;/p&gt;
+
+&lt;p&gt;Varför komplicerar de alltid saker? brukade jag fråga mig själv. Tills jag en dag insåg att detta inte bara var en retorisk fråga.&lt;/p&gt;
+
+&lt;p&gt;Varför slår grundare knut på sig själva och gör helt fel saker trots att de redan vet vad som är rätt? För att de har lärt sig att det är så man gör. De har lärt sig i skolan att man ska “hacka provet”. Utan att skolan någonsin berättade detta för dem. De allra yngsta grundarna hade aldrig sett ett icke-artificiellt prov. De trodde att världen fungerade som i skolan, dvs att så fort man ställs inför någon form av utmaning så bör man försöka lista ut hur man kan hacka provet. Det var därför deras resonemang alltid kretsade kring hur man tar in pengar, för det var detta som verkade vara själva provet i slutet av deras tid på Y Combinator. Det var mätbart, och större pengar verkade vara bättre. Alltså måste det vara provet.&lt;/p&gt;
+
+&lt;p&gt;Det finns absolut många situationer i livet när man vinner genom att hacka provet. Det är inte begränsat till skolan. Vissa personer hävdar (av okunskap eller ideologi) att detta även gäller startups. Men så är det inte. Faktum är att en av de tydligaste egenskaperna hos startups är hur mycket du vinner på väl utfört arbete. Det finns förstås gränsfall, men i allmänhet så vinner du genom att ge dina användare en produkt de vill ha.&lt;/p&gt;
+
+&lt;p&gt;Varför tog det så lång tid för mig att inse varför grundare gjorde detta så komplicerat? För att jag inte hade förstått att skolor lär oss att hacka dåliga prov. Även jag hade tränats att hacka prov, men insåg inte detta förrän långt senare.&lt;/p&gt;
+
+&lt;p&gt;Faktum är att jag en gång i tiden hade attraherats av startupvärlden just av denna anledning (att det inte handlade om att hacka prov), men inte heller det insåg jag förrän senare. Genom min egen tid som startupgrundare hade jag successivt lärt om utan att förstå det. Skulle någon annan kunna göra detsamma direkt efter skolan om de bara känner till problemet? Det verkar vara värt att försöka åstadkomma detta i alla fall.&lt;/p&gt;
+
+&lt;p&gt;Förhoppningsvis så kan man göra saken bättre genom att konstatera att det föreligger på detta sätt, i och med att en stor del av fenomenets kraft ligger i det faktum att vi tar det för givet. När du väl insett det så har du sett elefanten i rummet, men det är en väl dold elefant. Detta fenomen har funnits med oss så länge, men ingen vill ju ha det så här. Det är helt enkelt resultatet du får om du kombinerar lärande med betyg, tävling och ett naivt antagande om att det inte går att hacka.&lt;/p&gt;
+
+&lt;p&gt;Det var omvälvande att inse att två fenomen jag funderat mycket på (tramset man ägnade sig åt på gymnasiet och svårigheten att få startupgrundare att inse uppenbara saker) hade samma orsak.&lt;/p&gt;
+
+&lt;p&gt;När man kommer till denna typ av insikt så får det ofta konsekvenser även inom andra områden. En insikt jag fått är till exempel att utbildning skulle kunna förbättras avsevärt. Men det innebär eventuellt också en lösning på frågan många stora företag verkar ställa sig: Hur kan vi bli mer som en startup? Jag tänker inte gå igenom alla möjliga konsekvenser här, utan fokusera lite på vad det innebär för individer.&lt;/p&gt;
+
+&lt;p&gt;Till att börja med så behöver många ambitiösa ungdomar som går ut från universitetet lära om. Men det ger också en insikt om hur man bör se på omvärlden. Istället för att se olika typer av yrken som mer eller mindre åtråvärda så kan du nu sortera dem på ett intressant sätt: I vilken utsträckning gör man bra ifrån sig inom denna yrkesroll genom att hacka provet?&lt;/p&gt;
+
+&lt;p&gt;Det finns två typer av prov: De som ges av institutioner eller “kommer uppifrån” i någon form och de som inte gör det. Prov som inte ges av institutioner går i praktiken inte att hacka, helt enkelt i det avseendet att ingen påstår att de utvärderar något annat än det de är avsedda att utvärdera. En fotbollsmatch t.ex. är helt enkelt ett prov för att avgöra vem som vinner, inte vilket lag som är bäst. Ett prov som “kommer uppifrån” är däremot en proxy för något annat. En tenta i en kurs är t.ex. inte bara ett prov på hur bra du skrev tentan, utan är tänkt att visa hur mycket du lärt dig i kursen. Denna typ av prov kräver arbete för att det inte ska gå att hacka dem, medan prov som inte kommer uppifrån inte går att hacka överhuvud taget.&lt;/p&gt;
+
+&lt;p&gt;Nu kanske du tycker om den typen av arbete som kan liknas vid att hacka prov. Vissa gör ju det. Men jag slår vad om att de flesta som gör denna typ av arbete inte gillar det. Dom utgår helt enkelt från att det är såhär världen fungerar, om du vill hoppa av alltihop och bli någon slags hippie vill säga.&lt;/p&gt;
+
+&lt;p&gt;Jag tror att många antar att det enda sättet att tjäna stora pengar är att arbeta inom områden där man måste hacka prov. Men detta stämmer inte. Det stämde förvisso för längesen, t.ex. på 1100-talet när världen utgjordes av oligopol. Då var man tvungen att spela enligt dessas spelregler. Men det stämmer inte längre. Nu kan man bli rik genom att utföra riktigt arbete, vilket är en av anledningarna att så många fler försöker bli rika än förr. När jag var liten kunde du antingen bli ingenjör och bygga häftiga saker, eller tjäna pengar genom att bli “direktör”. Idag kan du tjäna pengar på att bygga häftiga saker.&lt;/p&gt;
+
+&lt;p&gt;Allteftersom institutioner får mindre makt så minskar behovet av att hacka dåliga prov för att ta sig fram i livet. Detta är en av vår tids viktigaste trender, och vi kan se dess effekter inom alla möjliga branscher. Startups är ett iögonfallande exempel, men vi ser samma sak bland skribenter. Dessa behöver inte längre skicka in material till förlag och redaktörer för att nå läsare - nu kan de nå ut direkt.&lt;/p&gt;
+
+&lt;p&gt;Ju mer jag tänker på detta, desto mer optimistisk blir jag. Tänk vad som skulle hända om allt fler personer börjar ifrågasätta om de ska fortsätta hacka dåliga prov, och kommer fram till att de ska sluta med det. Detta skulle innbära att de branscher som livnär sig på dåliga prov skulle tappa de skarpaste hjärnorna - istället skulle dessa röra sig till områden där du vinner genom att göra ett bra arbete. Ju mer detta sker ,desto mer kommer utbildningsväsendet att sluta producera personer som optimerar för proven. Tänk hur världen skulle se ut om detta skulle ske.&lt;/p&gt;
+
+&lt;p&gt;Detta är inte bara något som individer bör ta till sig, utan även hela samhällen. Tänk vilken energi vi skulle kunna frigöra om detta hände.&lt;/p&gt;
+
+&lt;p&gt;(Essä av Paul Graham i översättning - publicerad med tillstånd av författaren, vars texter i original går att hitta på &lt;a href=&quot;http://www.paulgraham.com/articles.html&quot;&gt;http://www.paulgraham.com/articles.html&lt;/a&gt;.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ett sätt att upptäcka bias</title>
+   <link href="http://localhost:4000/2020/09/10/ett-satt-att-upptacka-bias/"/>
+   <updated>2020-09-10T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/09/10/ett-satt-att-upptacka-bias</id>
+   <content type="html">&lt;p&gt;Detta kommer att förvåna många, men i vissa fall är det möjligt att upptäcka bias i en urvalsprocess (t.ex. rekrytering) utan att veta något om själva ansökningarna. Detta är spännande, för det innebär bland annat att man som utomstående kan avslöja någon annans bias vare sig denne vill det eller ej.&lt;/p&gt;
+
+&lt;p&gt;Man kan använda denna teknik så länge (a) man har tillgång till ett slumpmässigt urval av de kandidater som valdes ut, (b) deras prestation efter urvalet har utvärderats och (c) prestationsförmågan är ungefär lika fördelad mellan de grupper man vill jämföra.&lt;/p&gt;
+
+&lt;p&gt;Hur fungerar detta? Fundera på vad bias innebär. Att en urvalsprocess förfördelar kandidater av typ x innebär att det är svårare för dem att ta sig igenom urvalsprocessen. Vilket innebär att kandidater av typ x i snitt måste vara bättre än andra kandidater för att ta sig igenom. [1] Vilket i sin tur innebär att kandidater av typ x som tar sig igenom urvalsprocessen borde prestera bättre än övriga kandidater. Men om  prestationen mäts så går ju detta att utvärdera i efterhand.&lt;/p&gt;
+
+&lt;p&gt;För att detta ska fungera måste du ha en objektiv metod att mäta prestation - åtminstone bör inte din metod ha någon inbyggd bias. Inom vissa områden är det dock ganska rättframt att mäta prestation, vilket gör att det är fullt möjligt att se om rekryteringen förfördelade någon kandidatgrupp: Mät helt enkelt huruvida denna kandidatgrupp presterade signifikant bättre än övriga. Detta är inte bara ett sätt att mäta bias - det är vad ordet bias betyder.&lt;/p&gt;
+
+&lt;p&gt;Till exempel så brukar många misstänka att riskkapitalinvesterare förfördelar kvinnliga kandidater. (&lt;em&gt;en &lt;a href=&quot;https://digital.di.se/artikel/nya-siffror-sa-lite-riskkapital-gar-till-kvinnor-medan-miljarderna-rullar-till-man&quot;&gt;studie&lt;/a&gt; av DI Digital visade t.ex. att 1 procent av riskkapitalinvesteringar gick till kvinnliga grundare 2019, min anm.&lt;/em&gt;). Detta borde vara lätt att utvärdera: Bland riskkapitals portföljbolag, går bolag med kvinnliga grundare signifikant bättre än övriga bolag? Ett riskkapitalbolag gjorde (förmodligen helt oavsiktligt) en studie på detta: First Round Capital analyserade sina portföljbolag och kom fram till att kvinnliga grundares bolag gick &lt;a href=&quot;http://10years.firstround.com/#one&quot;&gt;63% bättre&lt;/a&gt; än bolag utan kvinnliga grundare. [2]&lt;/p&gt;
+
+&lt;p&gt;Anledningen att inledde denna text med att säga att denna teknik skulle förvåna många var att vi så sällan ser analyser av detta slag. Jag tror att även First Round Capital blir förvånade när dom inser att de själva gjort en. Jag skulle tvivla på att någon hos dem insåg att de genom att begränsa urvalet till sin egen portfölj inte i första hand beskrev startuptrender, utan snarare sina egna fördomar i urvalet av bolag.&lt;/p&gt;
+
+&lt;p&gt;Jag förutspår att denna teknik kommer att bli vanligare i framtiden. Den data vi behöver för att göra studierna är alltmer tillgängligt. Data kring vem som ansökt till något hemlighålls ofta, men nuförtiden är data kring vem som valts ut publikt tillgängligt för alla som tar sig tiden att aggregera den.&lt;/p&gt;
+
+&lt;p&gt;[1] Denna teknik skulle inte fungera om urvalsprocessen utvärderade olika kandidater på olika faktorer - t.ex. om en arbetsgivare utvärderade män på förmåga men kvinnor på utseende.&lt;/p&gt;
+
+&lt;p&gt;[2] Som Paul Buchheit noterar så exkluderade First Round sin bästa investering (Uber) ur studien. Men även om det i vissa sammanhang är en god idé att exkludera outliers från data så är inte studier av startups (där avkastningen helt och hållet kommer från outliers) ett sådant sammanhang.&lt;/p&gt;
+
+&lt;p&gt;(Essä av Paul Graham i översättning - publicerad med tillstånd av författaren, vars texter i original går att hitta på &lt;a href=&quot;http://www.paulgraham.com/articles.html&quot;&gt;http://www.paulgraham.com/articles.html&lt;/a&gt;.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Om studieteknik</title>
-   <link href="http://www.jensbackbom.se/2018/10/26/studietekniker-for-livslangt-larande/"/>
+   <link href="http://localhost:4000/2018/10/26/studietekniker-for-livslangt-larande/"/>
    <updated>2018-10-26T00:00:00+02:00</updated>
-   <id>http://www.jensbackbom.se/2018/10/26/studietekniker-for-livslangt-larande</id>
+   <id>http://localhost:4000/2018/10/26/studietekniker-for-livslangt-larande</id>
    <content type="html">&lt;p&gt;Jag är ett stort fan av livslångt lärande, och jag tror att det är nödvändigt att man lär sig nya saker hela tiden för att inte
 stagnera i såväl sitt privatliv som professionellt. För att göra lärande effektivt är det bra att först lära sig lite om
 &lt;em&gt;studieteknik&lt;/em&gt;. Nedan följer några tips och metoder som jag plockat upp längs vägen, bland annat under min militärtjänstgöring där
@@ -36,10 +198,10 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;deliberate-practice&quot;&gt;Deliberate practice&lt;/h3&gt;
-&lt;p&gt;Repetition är kunskapens moder. Ju fler tillfällen du repeterar desto bättre sitter kunskaperna. Under min värnplikt rekomennderades det att plugga in glosorna så tidigt som möjligt, helst redan första kvällen så att man kunde ägna alla dagar fram till provet åt att repetera. Man vill dock repetera effektivt och fokusera på de saker som är svåra att lära sig, s.k. &lt;em&gt;deliberate practice&lt;/em&gt;. Tänk dig t.ex. att du vill lära dig spela gitarr. Om du lär dig tre ackord och sedan tillbringar all din vakna tid med att repetera en låt som består av dessa tre ackord så har du visserligen ägnat mycket tid åt repetition, men tror inte att du kommer bli bättre på att spela gitarr av att göra så. Proffsmusiker är förstås medvetna om detta och fokuserar därför sin repetition på de svåraste passagerna i musikstyckena.&lt;/p&gt;
+&lt;p&gt;Repetition är kunskapens moder. Ju fler tillfällen du repeterar desto bättre sitter kunskaperna. Under min värnplikt rekommenderades det att plugga in glosorna så tidigt som möjligt, helst redan första kvällen så att man kunde ägna alla dagar fram till provet åt att repetera. Man vill dock repetera effektivt och fokusera på de saker som är svåra att lära sig, s.k. &lt;em&gt;deliberate practice&lt;/em&gt;. Tänk dig t.ex. att du vill lära dig spela gitarr. Om du lär dig tre ackord och sedan tillbringar all din vakna tid med att repetera en låt som består av dessa tre ackord så har du visserligen ägnat mycket tid åt repetition, men tro inte att du kommer bli bättre på att spela gitarr av att göra så. Proffsmusiker är förstås medvetna om detta och fokuserar därför sin repetition på de svåraste passagerna i musikstyckena.&lt;/p&gt;
 
 &lt;h3 id=&quot;sömn&quot;&gt;Sömn&lt;/h3&gt;
-&lt;p&gt;Som tidigare nämnts skapas associationer och därmed lärande när vi sover. Det är dock viktigt att man får en ordentlig natts sömn för att lärandet ska fungera - om man inte kommer ner i djupsömn eller sover för få timmar så sätter sig inte kunskaperna lika bra. Ofta räcker det inte med en natt om man vill komma ihåg det man lärt sig, så den sista natten inför provet bör man helst inte försöka plugga in någonting nytt.&lt;/p&gt;
+&lt;p&gt;Som tidigare nämnts skapas associationer och därmed lärande när vi sover. Det är dock viktigt att man får en ordentlig natts sömn för att lärandet ska fungera - om man inte kommer ner i djupsömn eller sover för få timmar så sätter sig inte kunskaperna lika bra. Ofta räcker det inte heller med &lt;em&gt;en&lt;/em&gt; natt om man vill komma ihåg det man lärt sig på längre sikt, så den sista natten inför provet bör man helst inte försöka plugga in någonting nytt.&lt;/p&gt;
 
 &lt;h3 id=&quot;associationer&quot;&gt;Associationer&lt;/h3&gt;
 &lt;p&gt;Hjärnan minns genom att associera, och oavsett vad du tidigare hört om s.k. &lt;em&gt;lärstilar&lt;/em&gt; så associerar hjärnan lättast till bilder och händelser. Ett tips för att lära sig nya ord är därför att försöka hitta något som låter ungefär som det ord du vill lära dig, samt försöka visualisera detta framför sig i en dramatisk (och helst lite sjuk) situation. Jag minns när jag skulle försöka lära mig det ryska ordet för “bjuda in”, &lt;em&gt;приглашать&lt;/em&gt;. Ordet uttalas ungefär “priglashatt” och påminner inte om något ord på svenska eller engelska, så för att minnas det behövde jag ta till en sjuk association. Jag tyckte ordet lät ungefär som &quot;prygla katt&quot;, så för att minnas det föreställde jag mig att jag blev inbjuden till en fest där vi skulle misshandla katter. Jättesjukt, jag vet. Men jag lärde mig ordet snabbt.&lt;/p&gt;
@@ -50,14 +212,14 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
 &lt;p&gt;Det visar sig att det är stor skillnad på att lära sig &lt;em&gt;känna igen&lt;/em&gt; något passivt och att &lt;em&gt;kunna återge&lt;/em&gt; det man lärt sig. När man läst en text bör man därför testa sin förmåga till &quot;recall&quot;, dvs att återge det man läst direkt ur minnet. Testfrågor är ett sätt att åstadkomma detta, ett annat är att försöka återge det man läst med sina egna ord.&lt;/p&gt;
 
 &lt;h3 id=&quot;spaced-repetition&quot;&gt;Spaced repetition&lt;/h3&gt;
-&lt;p&gt;För att det ska sjunka in hur viktigt det är med repetition så repeterar jag ännu en gång: Ju mer man repeterar något desto bättre sätter det sig i minnet. När man sätter sig för att repetera t.ex. ett antal glosor märker man dock snart att man har lättare att komma ihåg några av dem medan andra är desto svårare att minnas. En gyllene regel för effektivt lärande är därför att &lt;em&gt;ju lättare något är att komma ihåg desto mer sällan kan man repetera det&lt;/em&gt;. Detta kallas &lt;em&gt;spaced repetition&lt;/em&gt; och är en oerhört viktig princip för att optimera sin studietid.&lt;/p&gt;
+&lt;p&gt;För att det ska sjunka in hur viktigt det är med repetition så repeterar jag ännu en gång: Ju mer man repeterar något desto bättre sätter det sig i minnet. När man sätter sig för att repetera t.ex. ett antal glosor märker man dock snart att man har lättare att komma ihåg några av dem medan andra är desto svårare att minnas. En gyllene regel för effektivt lärande är därför att &lt;em&gt;ju lättare något är att komma ihåg desto mer sällan behöver man repetera det&lt;/em&gt;. Detta kallas &lt;em&gt;spaced repetition&lt;/em&gt; och är en oerhört viktig princip för att optimera sin studietid.&lt;/p&gt;
 
 &lt;h3 id=&quot;byt-perspektiv-och-miljö&quot;&gt;Byt perspektiv och miljö&lt;/h3&gt;
 &lt;p&gt;I och med att det är lättare att minnas något om man har många associationer till det bör man även försöka lära sig saker ur flera perspektiv så att hjärnan får fler &quot;ingångar &quot;. Detta kan t.ex. innebära:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;att lära sig ett ord genom att försöka koppla det till sin svenska motsvarighet&lt;/li&gt;
   &lt;li&gt;att försöka hitta uttryck som liknar ordet&lt;/li&gt;
-  &lt;li&gt;att hitta så kallade &lt;em&gt;kognater&lt;/em&gt; (liknande ord) på andra språk, såsom window (ensgelska) - vindue (danska)&lt;/li&gt;
+  &lt;li&gt;att hitta så kallade &lt;em&gt;kognater&lt;/em&gt; (liknande ord) på andra språk, såsom window (engelska) - vindue (danska)&lt;/li&gt;
   &lt;li&gt;att lyssna på musik, podcasts eller se på film som handlar om det man vill lära sig&lt;/li&gt;
   &lt;li&gt;att byta studiemiljö (fungerar bättre än man kan tro!)&lt;/li&gt;
 &lt;/ul&gt;
@@ -82,9 +244,9 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
  
  <entry>
    <title>The Effective Executive av Peter Drucker</title>
-   <link href="http://www.jensbackbom.se/2018/08/26/the-effective-executive/"/>
+   <link href="http://localhost:4000/2018/08/26/the-effective-executive/"/>
    <updated>2018-08-26T00:00:00+02:00</updated>
-   <id>http://www.jensbackbom.se/2018/08/26/the-effective-executive</id>
+   <id>http://localhost:4000/2018/08/26/the-effective-executive</id>
    <content type="html">&lt;p&gt;Peter Drucker var en ohyggligt produktiv författare inom managementlitteratur, och jag fick upp ögonen för hans bok &lt;em&gt;The Effective Executive&lt;/em&gt; då Tim Ferriss i sin podcast hänvisade till boken som &quot;Den främsta boken inom produktivitet han läst&quot; (ungefärligt citat). Jag har läst boken flera gånger och kan inte annat än stämma in i hyllningskören. Den är absolut en av de bästa och mest koncist skrivna böcker jag läst på temat produktivitet. Tyvärr finns den dock inte i svensk översättning, så jag tänkte försöka sammanfatta bokens huvuddrag.&lt;/p&gt;
 
 &lt;p&gt;Personligen är mina främsta lärdomar från boken följande:&lt;/p&gt;
@@ -195,9 +357,9 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
  
  <entry>
    <title>Verktyg för att arbeta effektivt</title>
-   <link href="http://www.jensbackbom.se/2018/08/20/smarta-verktyg/"/>
+   <link href="http://localhost:4000/2018/08/20/smarta-verktyg/"/>
    <updated>2018-08-20T00:00:00+02:00</updated>
-   <id>http://www.jensbackbom.se/2018/08/20/smarta-verktyg</id>
+   <id>http://localhost:4000/2018/08/20/smarta-verktyg</id>
    <content type="html">&lt;p&gt;Nedanstående är en sammanfattning av fiffiga verktyg och funktioner som jag ofta använt själv eller blivit rekommenderad de senaste åren. Tänkte försöka hålla denna lista levande så tipsa gärna om fler!&lt;/p&gt;
 
 &lt;p&gt;Verktyg jag använt &lt;em&gt;själv&lt;/em&gt;:&lt;/p&gt;
@@ -222,9 +384,9 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
  
  <entry>
    <title>Att rekrytera utvecklare på en stekhet marknad - några konkreta tips</title>
-   <link href="http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare/"/>
+   <link href="http://localhost:4000/2018/02/05/rekrytera-utvecklare/"/>
    <updated>2018-02-05T00:00:00+01:00</updated>
-   <id>http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare</id>
+   <id>http://localhost:4000/2018/02/05/rekrytera-utvecklare</id>
    <content type="html">&lt;p&gt;Om du är en duktig programmerare så har du idag inga som helst problem att hitta jobb. Behärskar du tekniker där det råder stor brist på utvecklare kan du dessutom förhandla dig till en hel del förmåner såsom hög lön, möjlighet att jobba hemifrån, träna på arbetstid och få gratis lunch på jobbet. I vissa specialfall (om du t.ex. är riktigt vass på COBOL eller Sharepoint) så kan du i princip begära vilken lön / ersättning som helst.&lt;/p&gt;
 
 &lt;p&gt;Det motsatta gäller förstås om du vill &lt;em&gt;rekrytera&lt;/em&gt; programmerare, åtminstone om du inte heter Google eller Spotify. Att hitta programmerare samt övertyga hen om att jobba hos dig kan vara helt hopplöst svårt, och är du inte själv teknikkunnig så blir det inte lättare. Jag har genom tidigare arbete och företagande varit inblandad i en hel del rekrytering, och har över tid sett några olika taktiker för att hitta och behålla teknikkompetens. Nedan följer några tips på hur man kan gå tillväga:&lt;/p&gt;
@@ -269,9 +431,9 @@ Ju fler nätter hjärnan har på sig att bygga kopplingar, desto bättre lär ma
  
  <entry>
    <title>Tänka, rätt och fel</title>
-   <link href="http://www.jensbackbom.se/2017/03/14/tanka-ratt-och-fel/"/>
+   <link href="http://localhost:4000/2017/03/14/tanka-ratt-och-fel/"/>
    <updated>2017-03-14T00:00:00+01:00</updated>
-   <id>http://www.jensbackbom.se/2017/03/14/tanka-ratt-och-fel</id>
+   <id>http://localhost:4000/2017/03/14/tanka-ratt-och-fel</id>
    <content type="html">&lt;p&gt;För ett och ett halvt år sedan skapade jag onlinekursen ‘Tänk’ på DailyBitsOf. Jag hade nyligen läst och blivit inspirerad av en bok om populärmatematik, som fick mig att sätta ihop en handfull korta lektioner på temat ‘Vanliga felaktiga slutsatser’. Det visade sig finnas ett visst intresse för detta ämne, så jag kom efter några månader i kontakt med bokförlaget Roos &amp;amp; Tegnér som undrade om jag skulle vilja skriva en bok på samma tema.&lt;/p&gt;
 
 &lt;p&gt;Resultatet blev boken ‘Tänka, rätt och fel’ som släpptes på Roos &amp;amp; Tegnér förlag förra veckan. Den är ett försök att sammanställa en rad lärdomar kring hur man kan använda hjärnan mer effektivt, vilket kan innebära flera olika saker. Ibland kan det vara bra att känna till några vanliga felaktiga slutsatser så att man lättare kan undvika dem, såsom att blanda ihop korrelation och kausalitet eller orsak och verkan. Det kan också röra sig om att lära sig undvika (eller tillämpa!) olika former av marknadsföringsknep som är designade för att påverka köpbeslut, eller bli bättre på att tänka i termer av sannolikheter. Vår hjärna är ju designad för att hantera ett liv i naturen bland vilda djur, vilket ibland får oss att bli onödigt kategoriska. Det kan därför vara klokt att lära sig känna igen olika typfall när hjärnan drar förhastade slutsatser.&lt;/p&gt;
