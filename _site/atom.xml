@@ -4,13 +4,52 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-19T16:02:08+02:00</updated>
+ <updated>2020-11-08T22:44:49+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hur man hittar affärsidéer</title>
+   <link href="http://localhost:4000/2020/11/08/hur-man-hittar-affarsideer/"/>
+   <updated>2020-11-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/11/08/hur-man-hittar-affarsideer</id>
+   <content type="html">&lt;p&gt;Om du vill starta bolag behöver du en affärsidé. De flesta framgångsrika entreprenörer jag känner har ständigt en massa idéer som de vill diskutera, men hur gör man egentligen för att hitta en bra affärsidé? Som i många andra kreativa sammanhang handlar det ofta om att kombinera existerande koncept till något nytt, till exempel att ta en befintlig produkt till en ny marknad eller att återuppliva en gammal idé som skulle fungera bättre idag än den gjorde när den testades sist.&lt;/p&gt;
+
+&lt;p&gt;Här nedanför följer några olika infallsvinklar för att hitta affärsidéer. Det är på intet sätt en komplett sammanställning, men borde kunna vara en bra utgångspunkt för vidare diskussion och brainstorming. Man måste förstås också ha klart för sig att bara för att en idé ser bra ut på pappret så behöver den inte fungera i verkligheten. Prata därför med möjliga kunder så tidigt som möjligt, och försök bilda dig en uppfattning om hur stor marknaden för din idé egentligen är.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-allmänhet&quot;&gt;I allmänhet:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hitta ett existerande företag med låg kundnöjdhet, starta en konkurrent och fokusera på att leverera högre kvalitet och en bättre kundupplevelse genom t.ex. snabba leveranser eller överlägsen service. Detta är förmodligen ett av de vanligaste anledningarna till att företag startas - man ser något som fungerar lite halvdåligt och startar en konkurrent.&lt;/li&gt;
+  &lt;li&gt;Studera ny teknik eller infrastruktur och se om denna gör det möjligt att öka en existerande tjänsts tillgänglighet. Detta kan innebära att lansera en ny mjukvara som har bättre stöd för smartphones än konkurrenterna (t.ex. genom en mobilanpassad version eller en app) men även  att skapa något som är tillgängligt fler timmar på dygnet (såsom t.ex. nätläkare, e-handelssajter och köpcentrum) eller där många kommer att röra sig (såsom snabbmatsrestauranger vid motorvägar).&lt;/li&gt;
+  &lt;li&gt;Ta en existerande produkt till en ny marknad. Ett sätt är att bli agent eller återförsäljare, ett annat är att bygga en kopia som är anpassad för lokala förhållanden på marknaden (t.ex. genom att helt enkelt finnas tillgänglig i närheten eller på det lokala språket). “Marknad” kan förstås även betyda bransch - Det finns t.ex. flera exempel på nischade CRM-lösningar för specifika branscher, såsom &lt;a href=&quot;http://www.veeva.com/&quot;&gt;Veeva&lt;/a&gt; för läkemedelsmarknaden.&lt;/li&gt;
+  &lt;li&gt;Ta en existerande affärsmodell till en ny bransch (nära besläktad med föregående punkt). Tack vare Ubers och AirBnBs framgångar har det kommit många “Uber för X”, där X kan vara allt från biltvätt (&lt;a href=&quot;http://www.woshapp.com/&quot;&gt;Woshapp&lt;/a&gt;) till prylar (&lt;a href=&quot;http://www.hygglo.se/&quot;&gt;Hygglo&lt;/a&gt;) eller transport (&lt;a href=&quot;http://www.tipptapp.com/&quot;&gt;TippTapp&lt;/a&gt;). Konceptet skulle förstås även gå att tillämpa på andra affärsmodeller - tänk t.ex. “Stack Overflow för X” eller “Strava för X”.&lt;/li&gt;
+  &lt;li&gt;Studera regulatoriska förändringar. Ny lagstiftning och regelverk ger ofta upphov till nya företag (t.ex. GDPR -&amp;gt; &lt;a href=&quot;http://www.dporganizer.com&quot;&gt;DPOrganizer&lt;/a&gt;, MAR -&amp;gt; &lt;a href=&quot;https://www.insiderlog.se/&quot;&gt;Insiderlog&lt;/a&gt;), likaså avregleringar (Apoteket -&amp;gt; Apotea &amp;amp; ApoEx, Bilprovningen -&amp;gt; Opus m fl)&lt;/li&gt;
+  &lt;li&gt;Bygg tillägg till etablerade tjänster eller företag som just nu växer kraftigt. Exempel kan t.ex. vara plugins till Teams/Slack, CRM-system eller andra mjukvaror, såsom t.ex. &lt;a href=&quot;http://www.linktr.ee/&quot;&gt;LinkTree&lt;/a&gt; som enbart syftar till att lösa problemet med att man inte kan lägga upp länkar på Instagram. Om den tjänst man bygger tillägget till är tillräckligt stor så kan även en till synes obskyr produkt bli bärkraftig.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mer-specifikt&quot;&gt;Mer specifikt:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Interna verktyg inom stora företag: Många snabbväxande företag ligger inte bara i framkant på sin marknad - man har även utvecklat interna verktyg som gör det möjligt att röra sig snabbare än sina konkurrenter. Att göra dessa verktyg till publika produkter kan fungera väl - till exempel så inspirerades Asana av Facebooks interna projektledningsverktyg. Även Spotify har gjort flera interna verktyg publika som open source, t.ex. &lt;a href=&quot;https://github.com/spotify/luigi&quot;&gt;Luigi&lt;/a&gt; och &lt;a href=&quot;https://github.com/backstage/backstage&quot;&gt;Backstage&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Interna avdelningar inom stora företag. Ta en avdelning (t.ex. fastighetsskötsel, IT eller bolagsjuridik) som finns inom stora företag tillhandahåll motsvarande funktion som ett eget bolag. Egentligen samma sak som punkt 1, men för avdelningar istället för mjukvara. WeWork skulle kunna vara ett exempel på detta.&lt;/li&gt;
+  &lt;li&gt;Uppköp: Om ett företag köps upp så kommer detta att leda till en hel del ommöblering. Produkter läggs ner, organisationsstrukturer ändras och anställda säger upp sig eller sägs upp. Detta gör att man ofrånkomligen tappar fokus på en eller flera av sina produkter under en tid, vilket kan vara ett lysande tillfälle att starta en konkurrent till det uppköpta bolaget.&lt;/li&gt;
+  &lt;li&gt;Plocka upp en gammal idé som inte fungerade pga att marknaden inte var mogen. Många entreprenörer är visionärer, vilket ibland innebär att de är för tidigt ute. Webvan startade 1996 och kraschade 2001, men Instacart som startade 2012 fick samma idé att fungera - delvis för att marknaden var mycket mer mogen. På samma sätt har det t.ex. gjorts flera försök att skapa marknadsplatser för digitalt innehåll, men det är först nu som marknaden för detta börjar mogna och företag som &lt;a href=&quot;http://www.gumroad.com/&quot;&gt;Gumroad&lt;/a&gt; börjar fungera på riktigt.&lt;/li&gt;
+  &lt;li&gt;Ta ett konsumentbeteende och försök applicera det på företag. Ett exempel på detta är Yammer (Facebook för företag), men det finns även en stark trend som innebär att mjukvaruföretag approcherar den anställde direkt med en billig produkt istället för att försöka sälja in en dyr produkt till företaget (t.ex. Slack).&lt;/li&gt;
+  &lt;li&gt;Ta en Excelmodell och bygg en SaaS-tjänst som gör samma sak. Rör det sig om en enkel Excelmodell kan man använda t.ex. &lt;a href=&quot;http://www.molnify.com/&quot;&gt;Molnify&lt;/a&gt; för detta, men även något av alla No Code-verktyg såsom &lt;a href=&quot;http://www.retool.com/&quot;&gt;Retool&lt;/a&gt; eller &lt;a href=&quot;http://www.bubble.io/&quot;&gt;Bubble&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Bygg ett mjukvarudrivet tjänsteföretag. T.ex. en juristfirma som har en stark mjukvara i botten (&lt;a href=&quot;http://www.lawline.se/&quot;&gt;LawLine&lt;/a&gt; och &lt;a href=&quot;http://www.pockerlaw.se&quot;&gt;PocketLaw&lt;/a&gt; är inne på något liknande), en designerfirma som bygger på AI-drivna designgenerator, en reklambyrå baserad på GPT-3 (såsom &lt;a href=&quot;https://www.persado.com/&quot;&gt;Persado&lt;/a&gt;) eller ett programmerarfirma som har färdigbyggda moduler att bygga vidare på (t.ex. Builder.ai).&lt;/li&gt;
+  &lt;li&gt;Gör något mer “programmerbart”. Ta en desktopmjukvara, flytta den online och gör den mer kraftfull genom att lägga till möjlighet att göra anpassningar på programmatisk väg. Exempel på detta är &lt;a href=&quot;http://www.airtable.com/&quot;&gt;Airtable&lt;/a&gt;, &lt;a href=&quot;http://www.notion.so/&quot;&gt;Notion&lt;/a&gt; och &lt;a href=&quot;http://www.coda.io/&quot;&gt;Coda&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Ta ett verktyg som i vanliga fall bygger på grafiska användargränssnitt och bygg en motsvarighet som istället utgår mer från kortkommandon på tangentbordet. Aktuella exempel på detta är t.ex. &lt;a href=&quot;http://www.superhuman.com/&quot;&gt;Superhuman&lt;/a&gt;, &lt;a href=&quot;http://www.getcommande.com&quot;&gt;CommandE&lt;/a&gt;, &lt;a href=&quot;http://www.linear.app/&quot;&gt;Linear&lt;/a&gt; och &lt;a href=&quot;http://www.amie.so/&quot;&gt;Amie&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;“Unbundla” en bransch. Ta universitet som exempel - varför går man på universitet? Utbildningen är en del av det, men även den sociala aspekten är viktig. Företag såsom OnDeck har fokuserat på den sociala delen och byggt ett community för personer som vill utvecklas och ta ett nästa steg i livet, utan att för den delen ha några formella utbildningsmoment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kanske går det även att kombinera några av ovanstående approacher! Ta t.ex. en intern Excelmodell som du använt på en arbetsplats och starta eget med en SaaS-tjänst som bygger på Excelmodellen, kanske med betydande inslag av kortkommandon.&lt;/p&gt;
+
+&lt;p&gt;Fler förslag? Hör av dig! Jag nås på &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt; eller &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>10 sätt att blåsa en minoritetsägare</title>
