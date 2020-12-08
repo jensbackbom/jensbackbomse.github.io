@@ -4,13 +4,40 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-11-08T22:44:49+01:00</updated>
+ <updated>2020-12-08T12:30:48+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>En checklista för SaaS-startups som vill utmana en konkurrent</title>
+   <link href="http://localhost:4000/2020/12/08/checklista-for-b2b-saas-bolag/"/>
+   <updated>2020-12-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/12/08/checklista-for-b2b-saas-bolag</id>
+   <content type="html">&lt;p&gt;Jag har arbetat med flera SaaS-startups som har en eller flera tydliga konkurrenter med bristande kundupplevelser. Här är några av de praktiska verktyg och metoder jag sett dessa bolag använda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se till att dropdownmenyer i ditt system är sökbara och har de mest valda alternativen först. Listor över länder är en klassiker här - behöver du verkligen ha alla länder med i listan och behöver de verkligen vara i bokstavsordning när “Sverige” används nästan hela tiden?&lt;/li&gt;
+  &lt;li&gt;Alla formulär som hänvisar till existerande data bör ha autocomplete-funktionalitet snarare än en extern sökruta.&lt;/li&gt;
+  &lt;li&gt;Rent generellt - eftersträva att ha en bråkdel av antalet “klick” jämfört med konkurrenten!&lt;/li&gt;
+  &lt;li&gt;Ditt system bör ha stöd för att spara favoritinställningar i vyer och rapporter, så att kunden inte behöver göra om allt varje gång hen loggar in.&lt;/li&gt;
+  &lt;li&gt;Allteftersom du lägger till nya features och inställningar så riskerar ditt användargränssnitt att bli väldigt rörigt. Städa upp då och då, och lägg sällan använda inställningar under en “Visa mer”-flik! Apple är en förebild här.&lt;/li&gt;
+  &lt;li&gt;Bygg in så mycket stöd för tangentbordsnavigation och kortkommandon som det är möjligt. Om du inte har tid med det, se åtminstone till att inte webbläsarens inbyggda tangentbordsnavigation går sönder på grund av dåligt byggda formulär! Återigen - försök minimera antalet klick.&lt;/li&gt;
+  &lt;li&gt;Erbjud en fungerande användaradministration med stöd för grupper och hierarkier. Det är anmärkningsvärt hur många äldre system som inte har stöd för att kunna lägga upp användare själv!&lt;/li&gt;
+  &lt;li&gt;Erbjud integrationer mot Zapier, vanliga affärssystem etc vid behov, t.ex. så att nya medarbetare kan få ett konto automatiskt som en del av sin onboarding.&lt;/li&gt;
+  &lt;li&gt;Erbjud fullständig B2B-signup online om möjligt, dvs att man kan signa upp sitt bolag med ett juridiskt bindande kontrakt som skrivs under med elektronisk signatur av behöriga firmatecknare. Det finns API:er för allt detta!&lt;/li&gt;
+  &lt;li&gt;Se till att ha en fungerande mobilversion av din tjänst, och testa denna med jämna mellanrum. Förutsätt inte att ditt CSS-ramverk löser det åt dig!&lt;/li&gt;
+  &lt;li&gt;Gör lokala anpassningar (såsom språkstöd eller stöd för lokal lagstiftning och regelverk) som kan vara svåra att kopiera för en konkurrent.&lt;/li&gt;
+  &lt;li&gt;Lägg upp kundloggor och testimonials på din sajt så snart du kan! En av dina största utmaningar som startup kommer att vara att övertyga dina kunder om att du kan leverera på samma nivå som en existerande leverantör. Ju mer trygghet du kan ge genom att hänvisa till andra nöjda kunder desto lägre blir tröskeln för att våga ge dig en chans.&lt;/li&gt;
+  &lt;li&gt;Lista dig på G2/Capterra samt “app stores” och be dina bästa kunder ge dig referenser! Detta är särskilt viktigt om du är verksam i en bransch där kunder vet vad de vill ha. Om du erbjuder ett CRM-system så kommer kunder att hitta dig genom att söka efter CRM-system, och då behöver du finnas där man letar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fler förslag? Hör av dig! Jag nås på &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt; eller &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hur man hittar affärsidéer</title>
@@ -21,17 +48,19 @@
 
 &lt;p&gt;Här nedanför följer några olika infallsvinklar för att hitta affärsidéer. Det är på intet sätt en komplett sammanställning, men borde kunna vara en bra utgångspunkt för vidare diskussion och brainstorming. Man måste förstås också ha klart för sig att bara för att en idé ser bra ut på pappret så behöver den inte fungera i verkligheten. Prata därför med möjliga kunder så tidigt som möjligt, och försök bilda dig en uppfattning om hur stor marknaden för din idé egentligen är.&lt;/p&gt;
 
-&lt;h3 id=&quot;i-allmänhet&quot;&gt;I allmänhet:&lt;/h3&gt;
+&lt;h3 id=&quot;i-allmänhet&quot;&gt;I allmänhet&lt;/h3&gt;
+&lt;p&gt;Några lite mer tidlösa principer för hur man hittar affärsidéer är nedanstående:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Hitta ett existerande företag med låg kundnöjdhet, starta en konkurrent och fokusera på att leverera högre kvalitet och en bättre kundupplevelse genom t.ex. snabba leveranser eller överlägsen service. Detta är förmodligen ett av de vanligaste anledningarna till att företag startas - man ser något som fungerar lite halvdåligt och startar en konkurrent.&lt;/li&gt;
   &lt;li&gt;Studera ny teknik eller infrastruktur och se om denna gör det möjligt att öka en existerande tjänsts tillgänglighet. Detta kan innebära att lansera en ny mjukvara som har bättre stöd för smartphones än konkurrenterna (t.ex. genom en mobilanpassad version eller en app) men även  att skapa något som är tillgängligt fler timmar på dygnet (såsom t.ex. nätläkare, e-handelssajter och köpcentrum) eller där många kommer att röra sig (såsom snabbmatsrestauranger vid motorvägar).&lt;/li&gt;
   &lt;li&gt;Ta en existerande produkt till en ny marknad. Ett sätt är att bli agent eller återförsäljare, ett annat är att bygga en kopia som är anpassad för lokala förhållanden på marknaden (t.ex. genom att helt enkelt finnas tillgänglig i närheten eller på det lokala språket). “Marknad” kan förstås även betyda bransch - Det finns t.ex. flera exempel på nischade CRM-lösningar för specifika branscher, såsom &lt;a href=&quot;http://www.veeva.com/&quot;&gt;Veeva&lt;/a&gt; för läkemedelsmarknaden.&lt;/li&gt;
-  &lt;li&gt;Ta en existerande affärsmodell till en ny bransch (nära besläktad med föregående punkt). Tack vare Ubers och AirBnBs framgångar har det kommit många “Uber för X”, där X kan vara allt från biltvätt (&lt;a href=&quot;http://www.woshapp.com/&quot;&gt;Woshapp&lt;/a&gt;) till prylar (&lt;a href=&quot;http://www.hygglo.se/&quot;&gt;Hygglo&lt;/a&gt;) eller transport (&lt;a href=&quot;http://www.tipptapp.com/&quot;&gt;TippTapp&lt;/a&gt;). Konceptet skulle förstås även gå att tillämpa på andra affärsmodeller - tänk t.ex. “Stack Overflow för X” eller “Strava för X”.&lt;/li&gt;
+  &lt;li&gt;Ta en existerande affärsmodell till en ny bransch (nära besläktad med föregående punkt). Tack vare Ubers och AirBnBs framgångar har det kommit många “Uber för X”, där X kan vara allt från biltvätt (&lt;a href=&quot;http://www.woshapp.com/&quot;&gt;Woshapp&lt;/a&gt;) till prylar (&lt;a href=&quot;http://www.hygglo.se/&quot;&gt;Hygglo&lt;/a&gt;) eller transport (&lt;a href=&quot;http://www.tiptapp.com/&quot;&gt;TipTapp&lt;/a&gt;). Konceptet skulle förstås även gå att tillämpa på andra affärsmodeller - tänk t.ex. “Stack Overflow för X”, “Strava för X” eller lite modernare varianter såsom “Superhuman för X” eller “Clubhouse för X”.&lt;/li&gt;
   &lt;li&gt;Studera regulatoriska förändringar. Ny lagstiftning och regelverk ger ofta upphov till nya företag (t.ex. GDPR -&amp;gt; &lt;a href=&quot;http://www.dporganizer.com&quot;&gt;DPOrganizer&lt;/a&gt;, MAR -&amp;gt; &lt;a href=&quot;https://www.insiderlog.se/&quot;&gt;Insiderlog&lt;/a&gt;), likaså avregleringar (Apoteket -&amp;gt; Apotea &amp;amp; ApoEx, Bilprovningen -&amp;gt; Opus m fl)&lt;/li&gt;
   &lt;li&gt;Bygg tillägg till etablerade tjänster eller företag som just nu växer kraftigt. Exempel kan t.ex. vara plugins till Teams/Slack, CRM-system eller andra mjukvaror, såsom t.ex. &lt;a href=&quot;http://www.linktr.ee/&quot;&gt;LinkTree&lt;/a&gt; som enbart syftar till att lösa problemet med att man inte kan lägga upp länkar på Instagram. Om den tjänst man bygger tillägget till är tillräckligt stor så kan även en till synes obskyr produkt bli bärkraftig.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;mer-specifikt&quot;&gt;Mer specifikt:&lt;/h3&gt;
+&lt;h3 id=&quot;mer-specifikt&quot;&gt;Mer specifikt&lt;/h3&gt;
+&lt;p&gt;Några lite mer aktuella sätt att hitta idéer, delvis besläktade med principerna ovan:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Interna verktyg inom stora företag: Många snabbväxande företag ligger inte bara i framkant på sin marknad - man har även utvecklat interna verktyg som gör det möjligt att röra sig snabbare än sina konkurrenter. Att göra dessa verktyg till publika produkter kan fungera väl - till exempel så inspirerades Asana av Facebooks interna projektledningsverktyg. Även Spotify har gjort flera interna verktyg publika som open source, t.ex. &lt;a href=&quot;https://github.com/spotify/luigi&quot;&gt;Luigi&lt;/a&gt; och &lt;a href=&quot;https://github.com/backstage/backstage&quot;&gt;Backstage&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Interna avdelningar inom stora företag. Ta en avdelning (t.ex. fastighetsskötsel, IT eller bolagsjuridik) som finns inom stora företag tillhandahåll motsvarande funktion som ett eget bolag. Egentligen samma sak som punkt 1, men för avdelningar istället för mjukvara. WeWork skulle kunna vara ett exempel på detta.&lt;/li&gt;
@@ -42,7 +71,7 @@
   &lt;li&gt;Bygg ett mjukvarudrivet tjänsteföretag. T.ex. en juristfirma som har en stark mjukvara i botten (&lt;a href=&quot;http://www.lawline.se/&quot;&gt;LawLine&lt;/a&gt; och &lt;a href=&quot;http://www.pockerlaw.se&quot;&gt;PocketLaw&lt;/a&gt; är inne på något liknande), en designerfirma som bygger på AI-drivna designgenerator, en reklambyrå baserad på GPT-3 (såsom &lt;a href=&quot;https://www.persado.com/&quot;&gt;Persado&lt;/a&gt;) eller ett programmerarfirma som har färdigbyggda moduler att bygga vidare på (t.ex. Builder.ai).&lt;/li&gt;
   &lt;li&gt;Gör något mer “programmerbart”. Ta en desktopmjukvara, flytta den online och gör den mer kraftfull genom att lägga till möjlighet att göra anpassningar på programmatisk väg. Exempel på detta är &lt;a href=&quot;http://www.airtable.com/&quot;&gt;Airtable&lt;/a&gt;, &lt;a href=&quot;http://www.notion.so/&quot;&gt;Notion&lt;/a&gt; och &lt;a href=&quot;http://www.coda.io/&quot;&gt;Coda&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Ta ett verktyg som i vanliga fall bygger på grafiska användargränssnitt och bygg en motsvarighet som istället utgår mer från kortkommandon på tangentbordet. Aktuella exempel på detta är t.ex. &lt;a href=&quot;http://www.superhuman.com/&quot;&gt;Superhuman&lt;/a&gt;, &lt;a href=&quot;http://www.getcommande.com&quot;&gt;CommandE&lt;/a&gt;, &lt;a href=&quot;http://www.linear.app/&quot;&gt;Linear&lt;/a&gt; och &lt;a href=&quot;http://www.amie.so/&quot;&gt;Amie&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;“Unbundla” en bransch. Ta universitet som exempel - varför går man på universitet? Utbildningen är en del av det, men även den sociala aspekten är viktig. Företag såsom OnDeck har fokuserat på den sociala delen och byggt ett community för personer som vill utvecklas och ta ett nästa steg i livet, utan att för den delen ha några formella utbildningsmoment.&lt;/li&gt;
+  &lt;li&gt;“Unbundla” en bransch. Vissa produkter är i själva verket sammansättningar (“bundles”) av flera olika produkter, såsom t.ex. dagstidningar är en sammansättning av nyheter, radannonser, sodukus, TV-tablå och aktiekurser. Det finns dock inte längre någon direkt poäng med att ha en lista av aktiekurser som kommer ut en gång per dygn när man kan få samma information i realtid på Internet - det finns med andra ord en poäng att ta dagstidningens olika delar och bryta isär (“unbundla”) dem till nya, mer fokuserade produkter. Samma sak håller delvis på att hända med universitet i USA. Tidigare har man gått på universitet för att ta del av en kombination av socialt umgänge, yrkesförberedelse och forskningsförberedande utbildning, men varför behöver dessa egentligen hänga ihop i samma produkt? Universiteten utmanas nu från flera håll, av aktörer såsom YCombinator (utbildning för entreprenörer) och OnDeck (den sociala sidan av universitetsupplevelsen). Tänker du efter finns det säkert fler områden där det skulle gå att “unbundla”!&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Kanske går det även att kombinera några av ovanstående approacher! Ta t.ex. en intern Excelmodell som du använt på en arbetsplats och starta eget med en SaaS-tjänst som bygger på Excelmodellen, kanske med betydande inslag av kortkommandon.&lt;/p&gt;
