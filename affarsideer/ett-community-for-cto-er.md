@@ -8,14 +8,14 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 
 **Marknadspotential i Sverige:** 100 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/)
+
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[marknadschefer](/affarsideer/ett-community-for-marknadschefer/), [redovisningskonsulter](/affarsideer/ett-community-for-redovisningskonsulter/), [åkerier](/affarsideer/ett-community-for-akerier/), [VD:ar](/affarsideer/ett-community-for-vd-ar/), [arkitekter](/affarsideer/ett-community-for-arkitekter/)
+[tillverkande industri](/affarsideer/ett-community-for-tillverkande-industri/), [advokater](/affarsideer/ett-community-for-advokater/), [redovisningskonsulter](/affarsideer/ett-community-for-redovisningskonsulter/), [elektriker](/affarsideer/ett-community-for-elektriker/), [IT-konsulter](/affarsideer/ett-community-for-it-konsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

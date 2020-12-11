@@ -8,14 +8,14 @@ Det har skapats många kedjor inom t.ex. restaurang- och cafénäringen. Detta b
 
 **Marknadspotential i Sverige:** 200 Mkr per år (vi räknar med en årsintäkt per användare på 20000 kr)
 
-**Konkurrenter:** Beror på bransch. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** Beror på bransch. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [Ett CRM-system](/affarsideer/ett-crm-system-for-tillverkande-industri/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/en-franchisekedja-av-fastighetsmaklare/), [arkitekter](/affarsideer/en-franchisekedja-av-arkitekter/), [advokater](/affarsideer/en-franchisekedja-av-advokater/)
+[redovisningskonsulter](/affarsideer/en-franchisekedja-av-redovisningskonsulter/), [krögare](/affarsideer/en-franchisekedja-av-krogare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

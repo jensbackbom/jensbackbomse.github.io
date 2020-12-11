@@ -8,14 +8,14 @@ Digitaliseringen av samhället pågår för fullt, men fortfarande utgör e-hand
 
 **Marknadspotential i Sverige:** 50 Mkr per år (vi räknar med en årsintäkt per användare på 5000 kr)
 
-**Konkurrenter:** Shopify, Amazon, Etsy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** Shopify, Amazon, Etsy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/)
+[Ett community](/affarsideer/ett-community-for-tillverkande-industri/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/en-e-handelsplattform-for-elektriker/), [hotell](/affarsideer/en-e-handelsplattform-for-hotell/), [redovisningskonsulter](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/)
+[advokater](/affarsideer/en-e-handelsplattform-for-advokater/), [hotell](/affarsideer/en-e-handelsplattform-for-hotell/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

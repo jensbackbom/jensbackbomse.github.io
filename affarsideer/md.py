@@ -373,7 +373,7 @@ for service in services:
 
 file = open("gratis-ideer.md".format(filename=filename), "w")
 services_subset=services
-target_group_subset=random.sample(target_groups, len(services))
+target_group_subset=random.sample([tg for tg in target_groups if not "role" in tg], len(services))
 random.shuffle(services_subset)
 random.shuffle(target_group_subset)
 services_subset=[u"{p} {t} {prep}".format(p=s["gender"], t=s["name"], prep=s["preposition"] if "preposition" in s else u"för") for s in services_subset]

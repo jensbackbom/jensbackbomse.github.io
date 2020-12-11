@@ -8,14 +8,14 @@ Det blir allt vanligare att företag gör regelbundna personalundersökningar, d
 
 **Marknadspotential i Sverige:** 30 Mkr per år (vi räknar med en årsintäkt per användare på 1500 kr)
 
-**Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-krogare/), [Ett community](/affarsideer/ett-community-for-krogare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-krogare/)
+[Ett CRM-system](/affarsideer/ett-crm-system-for-krogare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-krogare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[åkerier](/affarsideer/ett-personalundersokningsverktyg-for-akerier/), [advokater](/affarsideer/ett-personalundersokningsverktyg-for-advokater/), [IT-konsulter](/affarsideer/ett-personalundersokningsverktyg-for-it-konsulter/)
+[tillverkande industri](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [elektriker](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

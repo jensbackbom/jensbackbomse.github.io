@@ -8,14 +8,14 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 
 **Marknadspotential i Sverige:** 100 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-redovisningskonsulter/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/), [En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/)
+[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[arkitekter](/affarsideer/ett-community-for-arkitekter/), [krögare](/affarsideer/ett-community-for-krogare/), [tillverkande industri](/affarsideer/ett-community-for-tillverkande-industri/), [åkerier](/affarsideer/ett-community-for-akerier/)
+[hotell](/affarsideer/ett-community-for-hotell/), [åkerier](/affarsideer/ett-community-for-akerier/), [tandläkare](/affarsideer/ett-community-for-tandlakare/), [arkitekter](/affarsideer/ett-community-for-arkitekter/), [VD:ar](/affarsideer/ett-community-for-vd-ar/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

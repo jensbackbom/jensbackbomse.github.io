@@ -8,14 +8,14 @@ Digitaliseringen av samhället pågår för fullt, men fortfarande utgör e-hand
 
 **Marknadspotential i Sverige:** 100 Mkr per år (vi räknar med en årsintäkt per användare på 5000 kr)
 
-**Konkurrenter:** Shopify, Amazon, Etsy m fl. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** Shopify, Amazon, Etsy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett community](/affarsideer/ett-community-for-krogare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
+[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-krogare/), [Ett community](/affarsideer/ett-community-for-krogare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[advokater](/affarsideer/en-e-handelsplattform-for-advokater/), [redovisningskonsulter](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [fastighetsmäklare](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/), [IT-konsulter](/affarsideer/en-e-handelsplattform-for-it-konsulter/)
+[elektriker](/affarsideer/en-e-handelsplattform-for-elektriker/), [advokater](/affarsideer/en-e-handelsplattform-for-advokater/), [åkerier](/affarsideer/en-e-handelsplattform-for-akerier/), [tillverkande industri](/affarsideer/en-e-handelsplattform-for-tillverkande-industri/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

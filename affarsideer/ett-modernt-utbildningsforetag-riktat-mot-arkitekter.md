@@ -11,11 +11,11 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 **Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-arkitekter/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-arkitekter/)
+[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-arkitekter/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-arkitekter/), [Ett CRM-system](/affarsideer/ett-crm-system-for-arkitekter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[VD:ar](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-vd-ar/), [hotell](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [tandläkare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/)
+[tandläkare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [marknadschefer](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-marknadschefer/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

@@ -11,11 +11,11 @@ Om man är en stor organisation så kan man ofta förhandla sig till bättre pri
 **Konkurrenter:** Aktörer såsom t.ex. Pressa.se. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-krogare/), [Ett community](/affarsideer/ett-community-for-krogare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/)
+[En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/), [Ett CRM-system](/affarsideer/ett-crm-system-for-krogare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[arkitekter](/affarsideer/en-upphandlingsplattform-for-arkitekter/), [IT-konsulter](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [åkerier](/affarsideer/en-upphandlingsplattform-for-akerier/), [fastighetsmäklare](/affarsideer/en-upphandlingsplattform-for-fastighetsmaklare/)
+[arkitekter](/affarsideer/en-upphandlingsplattform-for-arkitekter/), [tillverkande industri](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/), [IT-konsulter](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [redovisningskonsulter](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

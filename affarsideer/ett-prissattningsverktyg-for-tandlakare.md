@@ -8,14 +8,14 @@ För företag som har ett större antal produkter och säljer via flera kanaler 
 
 **Marknadspotential i Sverige:** 250 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** I huvudsak Excel. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** I huvudsak Excel. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tandlakare/)
+[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-tandlakare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/), [elektriker](/affarsideer/ett-prissattningsverktyg-for-elektriker/), [tillverkande industri](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/)
+[redovisningskonsulter](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/), [arkitekter](/affarsideer/ett-prissattningsverktyg-for-arkitekter/), [åkerier](/affarsideer/ett-prissattningsverktyg-for-akerier/), [fastighetsmäklare](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/), [advokater](/affarsideer/ett-prissattningsverktyg-for-advokater/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

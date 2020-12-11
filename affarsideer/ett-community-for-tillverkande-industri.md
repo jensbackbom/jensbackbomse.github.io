@@ -8,14 +8,14 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 
 **Marknadspotential i Sverige:** 100 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/)
+[Ett CRM-system](/affarsideer/ett-crm-system-for-tillverkande-industri/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/ett-community-for-krogare/), [elektriker](/affarsideer/ett-community-for-elektriker/), [tandläkare](/affarsideer/ett-community-for-tandlakare/), [arkitekter](/affarsideer/ett-community-for-arkitekter/), [marknadschefer](/affarsideer/ett-community-for-marknadschefer/)
+[hotell](/affarsideer/ett-community-for-hotell/), [elektriker](/affarsideer/ett-community-for-elektriker/), [IT-konsulter](/affarsideer/ett-community-for-it-konsulter/), [fastighetsmäklare](/affarsideer/ett-community-for-fastighetsmaklare/), [VD:ar](/affarsideer/ett-community-for-vd-ar/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

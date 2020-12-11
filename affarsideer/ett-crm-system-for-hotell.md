@@ -8,14 +8,14 @@ Företagets kundregister är ett av de viktigaste IT-systemen, och den totala ma
 
 **Marknadspotential i Sverige:** 16 Mkr per år (vi räknar med en årsintäkt per användare på 4000 kr)
 
-**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-hotell/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-hotell/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-hotell/)
+[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-hotell/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-hotell/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/ett-crm-system-for-krogare/), [arkitekter](/affarsideer/ett-crm-system-for-arkitekter/), [tillverkande industri](/affarsideer/ett-crm-system-for-tillverkande-industri/), [elektriker](/affarsideer/ett-crm-system-for-elektriker/)
+[fastighetsmäklare](/affarsideer/ett-crm-system-for-fastighetsmaklare/), [tillverkande industri](/affarsideer/ett-crm-system-for-tillverkande-industri/), [åkerier](/affarsideer/ett-crm-system-for-akerier/), [advokater](/affarsideer/ett-crm-system-for-advokater/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

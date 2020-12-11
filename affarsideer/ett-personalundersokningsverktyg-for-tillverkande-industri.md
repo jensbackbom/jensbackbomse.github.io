@@ -11,11 +11,11 @@ Det blir allt vanligare att företag gör regelbundna personalundersökningar, d
 **Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En franchisekedja](/affarsideer/en-franchisekedja-av-tillverkande-industri/), [Ett community](/affarsideer/ett-community-for-tillverkande-industri/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/)
+[Ett community](/affarsideer/ett-community-for-tillverkande-industri/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/), [Ett CRM-system](/affarsideer/ett-crm-system-for-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[IT-konsulter](/affarsideer/ett-personalundersokningsverktyg-for-it-konsulter/), [redovisningskonsulter](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/), [hotell](/affarsideer/ett-personalundersokningsverktyg-for-hotell/), [elektriker](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/)
+[IT-konsulter](/affarsideer/ett-personalundersokningsverktyg-for-it-konsulter/), [arkitekter](/affarsideer/ett-personalundersokningsverktyg-for-arkitekter/), [elektriker](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})
