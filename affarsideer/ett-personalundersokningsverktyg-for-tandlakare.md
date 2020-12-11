@@ -11,11 +11,11 @@ Det blir allt vanligare att företag gör regelbundna personalundersökningar, d
 **Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tandlakare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/), [Ett community](/affarsideer/ett-community-for-tandlakare/)
+[En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/), [Ett CRM-system](/affarsideer/ett-crm-system-for-tandlakare/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tandlakare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/), [advokater](/affarsideer/ett-personalundersokningsverktyg-for-advokater/), [krögare](/affarsideer/ett-personalundersokningsverktyg-for-krogare/)
+[tillverkande industri](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [krögare](/affarsideer/ett-personalundersokningsverktyg-for-krogare/), [redovisningskonsulter](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

@@ -8,14 +8,14 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 
 **Marknadspotential i Sverige:** 250 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** VD-nätverk såsom Close, EGN etc. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [Ett CRM-system](/affarsideer/ett-crm-system-for-tandlakare/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-tandlakare/)
+[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tandlakare/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-tandlakare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[redovisningskonsulter](/affarsideer/ett-community-for-redovisningskonsulter/), [VD:ar](/affarsideer/ett-community-for-vd-ar/), [advokater](/affarsideer/ett-community-for-advokater/), [åkerier](/affarsideer/ett-community-for-akerier/), [tillverkande industri](/affarsideer/ett-community-for-tillverkande-industri/)
+[hotell](/affarsideer/ett-community-for-hotell/), [elektriker](/affarsideer/ett-community-for-elektriker/), [CTO:er](/affarsideer/ett-community-for-cto-er/), [krögare](/affarsideer/ett-community-for-krogare/), [advokater](/affarsideer/ett-community-for-advokater/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

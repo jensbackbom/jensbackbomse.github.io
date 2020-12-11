@@ -11,11 +11,11 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 **Konkurrenter:** VD-nätverk såsom Close, EGN etc. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
+[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/), [En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[hotell](/affarsideer/ett-community-for-hotell/), [åkerier](/affarsideer/ett-community-for-akerier/), [tandläkare](/affarsideer/ett-community-for-tandlakare/), [arkitekter](/affarsideer/ett-community-for-arkitekter/), [VD:ar](/affarsideer/ett-community-for-vd-ar/)
+[åkerier](/affarsideer/ett-community-for-akerier/), [arkitekter](/affarsideer/ett-community-for-arkitekter/), [advokater](/affarsideer/ett-community-for-advokater/), [VD:ar](/affarsideer/ett-community-for-vd-ar/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

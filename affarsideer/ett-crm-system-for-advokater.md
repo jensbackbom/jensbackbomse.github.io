@@ -11,11 +11,11 @@ Företagets kundregister är ett av de viktigaste IT-systemen, och den totala ma
 **Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-advokater/), [Ett community](/affarsideer/ett-community-for-advokater/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-advokater/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-advokater/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/ett-crm-system-for-krogare/), [elektriker](/affarsideer/ett-crm-system-for-elektriker/), [IT-konsulter](/affarsideer/ett-crm-system-for-it-konsulter/)
+[tandläkare](/affarsideer/ett-crm-system-for-tandlakare/), [elektriker](/affarsideer/ett-crm-system-for-elektriker/), [krögare](/affarsideer/ett-crm-system-for-krogare/), [hotell](/affarsideer/ett-crm-system-for-hotell/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

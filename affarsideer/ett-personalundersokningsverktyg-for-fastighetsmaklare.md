@@ -8,14 +8,14 @@ Det blir allt vanligare att företag gör regelbundna personalundersökningar, d
 
 **Marknadspotential i Sverige:** 15 Mkr per år (vi räknar med en årsintäkt per användare på 1500 kr)
 
-**Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** bolag såsom WinningTemp, &Frankly m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/)
+[Ett CRM-system](/affarsideer/ett-crm-system-for-fastighetsmaklare/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/), [åkerier](/affarsideer/ett-personalundersokningsverktyg-for-akerier/), [krögare](/affarsideer/ett-personalundersokningsverktyg-for-krogare/), [redovisningskonsulter](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/)
+[krögare](/affarsideer/ett-personalundersokningsverktyg-for-krogare/), [arkitekter](/affarsideer/ett-personalundersokningsverktyg-for-arkitekter/), [hotell](/affarsideer/ett-personalundersokningsverktyg-for-hotell/), [åkerier](/affarsideer/ett-personalundersokningsverktyg-for-akerier/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

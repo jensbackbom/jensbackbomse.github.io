@@ -8,14 +8,14 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 
 **Marknadspotential i Sverige:** 420 Mkr per år (vi räknar med en årsintäkt per användare på 15000 kr)
 
-**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
 
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[marknadschefer](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-marknadschefer/), [CTO:er](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/), [IT-konsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/), [redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
+[arkitekter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-arkitekter/), [advokater](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/), [redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/), [CTO:er](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

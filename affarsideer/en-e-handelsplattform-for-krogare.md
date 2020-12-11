@@ -11,11 +11,11 @@ Digitaliseringen av samhället pågår för fullt, men fortfarande utgör e-hand
 **Konkurrenter:** Shopify, Amazon, Etsy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-krogare/), [Ett community](/affarsideer/ett-community-for-krogare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
+[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-krogare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/en-e-handelsplattform-for-elektriker/), [advokater](/affarsideer/en-e-handelsplattform-for-advokater/), [åkerier](/affarsideer/en-e-handelsplattform-for-akerier/), [tillverkande industri](/affarsideer/en-e-handelsplattform-for-tillverkande-industri/)
+[fastighetsmäklare](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/), [arkitekter](/affarsideer/en-e-handelsplattform-for-arkitekter/), [åkerier](/affarsideer/en-e-handelsplattform-for-akerier/), [IT-konsulter](/affarsideer/en-e-handelsplattform-for-it-konsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

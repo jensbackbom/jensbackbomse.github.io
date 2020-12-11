@@ -11,11 +11,11 @@ För företag som har ett större antal produkter och säljer via flera kanaler 
 **Konkurrenter:** I huvudsak Excel. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-fastighetsmaklare/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-fastighetsmaklare/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[arkitekter](/affarsideer/ett-prissattningsverktyg-for-arkitekter/), [hotell](/affarsideer/ett-prissattningsverktyg-for-hotell/), [tillverkande industri](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/), [IT-konsulter](/affarsideer/ett-prissattningsverktyg-for-it-konsulter/)
+[elektriker](/affarsideer/ett-prissattningsverktyg-for-elektriker/), [tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [tillverkande industri](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/), [redovisningskonsulter](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

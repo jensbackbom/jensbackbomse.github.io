@@ -11,11 +11,11 @@ Det har skapats många kedjor inom t.ex. restaurang- och cafénäringen. Detta b
 **Konkurrenter:** Beror på bransch. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [Ett CRM-system](/affarsideer/ett-crm-system-for-it-konsulter/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-it-konsulter/)
+[Ett CRM-system](/affarsideer/ett-crm-system-for-it-konsulter/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[arkitekter](/affarsideer/en-franchisekedja-av-arkitekter/), [fastighetsmäklare](/affarsideer/en-franchisekedja-av-fastighetsmaklare/)
+[tandläkare](/affarsideer/en-franchisekedja-av-tandlakare/), [fastighetsmäklare](/affarsideer/en-franchisekedja-av-fastighetsmaklare/), [åkerier](/affarsideer/en-franchisekedja-av-akerier/), [arkitekter](/affarsideer/en-franchisekedja-av-arkitekter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

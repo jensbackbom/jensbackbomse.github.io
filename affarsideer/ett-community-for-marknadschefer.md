@@ -15,7 +15,7 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[tillverkande industri](/affarsideer/ett-community-for-tillverkande-industri/), [hotell](/affarsideer/ett-community-for-hotell/), [IT-konsulter](/affarsideer/ett-community-for-it-konsulter/), [elektriker](/affarsideer/ett-community-for-elektriker/)
+[VD:ar](/affarsideer/ett-community-for-vd-ar/), [IT-konsulter](/affarsideer/ett-community-for-it-konsulter/), [hotell](/affarsideer/ett-community-for-hotell/), [CTO:er](/affarsideer/ett-community-for-cto-er/), [advokater](/affarsideer/ett-community-for-advokater/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

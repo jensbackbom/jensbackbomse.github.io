@@ -11,11 +11,11 @@ Betalda medlemscommunities har börjat växa till sig som affärsmodell de senas
 **Konkurrenter:** VD-nätverk såsom Close, EGN etc. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-tillverkande-industri/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/)
+[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tillverkande-industri/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[hotell](/affarsideer/ett-community-for-hotell/), [elektriker](/affarsideer/ett-community-for-elektriker/), [IT-konsulter](/affarsideer/ett-community-for-it-konsulter/), [fastighetsmäklare](/affarsideer/ett-community-for-fastighetsmaklare/), [VD:ar](/affarsideer/ett-community-for-vd-ar/)
+[advokater](/affarsideer/ett-community-for-advokater/), [VD:ar](/affarsideer/ett-community-for-vd-ar/), [åkerier](/affarsideer/ett-community-for-akerier/), [CTO:er](/affarsideer/ett-community-for-cto-er/), [hotell](/affarsideer/ett-community-for-hotell/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

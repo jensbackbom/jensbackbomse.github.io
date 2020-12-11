@@ -11,11 +11,11 @@ Digitaliseringen av samhället pågår för fullt, men fortfarande utgör e-hand
 **Konkurrenter:** Shopify, Amazon, Etsy m fl. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-redovisningskonsulter/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
+[En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/), [Ett CRM-system](/affarsideer/ett-crm-system-for-redovisningskonsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/), [advokater](/affarsideer/en-e-handelsplattform-for-advokater/), [hotell](/affarsideer/en-e-handelsplattform-for-hotell/), [tillverkande industri](/affarsideer/en-e-handelsplattform-for-tillverkande-industri/)
+[arkitekter](/affarsideer/en-e-handelsplattform-for-arkitekter/), [tillverkande industri](/affarsideer/en-e-handelsplattform-for-tillverkande-industri/), [åkerier](/affarsideer/en-e-handelsplattform-for-akerier/), [tandläkare](/affarsideer/en-e-handelsplattform-for-tandlakare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

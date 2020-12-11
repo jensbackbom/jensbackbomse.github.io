@@ -2,16 +2,16 @@
 layout: page
 title: 112 gratis affärsidéer för dig som vill starta eget
 ---
-Jag har gjort en sammanställning av 112 gratis affärsidéer med tillhörande recept för hur man kommer igång med dem. Se nedan för några exempel som du sedan kan klicka dig vidare från. Håll till godo!
+Jag har gjort en sammanställning av 112 gratis affärsidéer med tillhörande marknadsuppskattningar. Se nedan för några exempel som du sedan kan klicka dig vidare från. Håll till godo!
 
 #### Exempel:
-- [En upphandlingsplattform för krögare](/affarsideer/en-upphandlingsplattform-for-krogare/)
-- [Ett modernt utbildningsföretag riktat mot IT-konsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/)
-- [Ett CRM-system för redovisningskonsulter](/affarsideer/ett-crm-system-for-redovisningskonsulter/)
-- [En franchisekedja av hotell](/affarsideer/en-franchisekedja-av-hotell/)
-- [En e-handelsplattform för elektriker](/affarsideer/en-e-handelsplattform-for-elektriker/)
-- [Ett prissättningsverktyg för tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/)
-- [Ett community för advokater](/affarsideer/ett-community-for-advokater/)
+- [Ett CRM-system för IT-konsulter](/affarsideer/ett-crm-system-for-it-konsulter/)
+- [Ett modernt utbildningsföretag riktat mot krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/)
+- [En upphandlingsplattform för redovisningskonsulter](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
+- [Ett prissättningsverktyg för arkitekter](/affarsideer/ett-prissattningsverktyg-for-arkitekter/)
+- [En franchisekedja av advokater](/affarsideer/en-franchisekedja-av-advokater/)
+- [En e-handelsplattform för åkerier](/affarsideer/en-e-handelsplattform-for-akerier/)
+- [Ett community för hotell](/affarsideer/ett-community-for-hotell/)
 - [Ett personalundersökningsverktyg för tillverkande industri](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/)
 
 #### Andra inlägg jag skrivit på detta tema:

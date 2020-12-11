@@ -8,14 +8,14 @@ Om man är en stor organisation så kan man ofta förhandla sig till bättre pri
 
 **Marknadspotential i Sverige:** 50 Mkr per år (vi räknar med en årsintäkt per användare på 5000 kr)
 
-**Konkurrenter:** Aktörer såsom t.ex. Pressa.se. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** Aktörer såsom t.ex. Pressa.se. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [Ett CRM-system](/affarsideer/ett-crm-system-for-redovisningskonsulter/)
+[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/), [Ett CRM-system](/affarsideer/ett-crm-system-for-redovisningskonsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[tillverkande industri](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/), [arkitekter](/affarsideer/en-upphandlingsplattform-for-arkitekter/), [IT-konsulter](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [krögare](/affarsideer/en-upphandlingsplattform-for-krogare/)
+[tandläkare](/affarsideer/en-upphandlingsplattform-for-tandlakare/), [elektriker](/affarsideer/en-upphandlingsplattform-for-elektriker/), [hotell](/affarsideer/en-upphandlingsplattform-for-hotell/), [fastighetsmäklare](/affarsideer/en-upphandlingsplattform-for-fastighetsmaklare/), [krögare](/affarsideer/en-upphandlingsplattform-for-krogare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

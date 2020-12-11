@@ -8,14 +8,14 @@ För företag som har ett större antal produkter och säljer via flera kanaler 
 
 **Marknadspotential i Sverige:** 950 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** I huvudsak Excel. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** I huvudsak Excel. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett community](/affarsideer/ett-community-for-elektriker/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-elektriker/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-elektriker/)
+[En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-elektriker/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-elektriker/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/ett-prissattningsverktyg-for-krogare/), [åkerier](/affarsideer/ett-prissattningsverktyg-for-akerier/), [hotell](/affarsideer/ett-prissattningsverktyg-for-hotell/), [redovisningskonsulter](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/)
+[krögare](/affarsideer/ett-prissattningsverktyg-for-krogare/), [tillverkande industri](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/), [tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

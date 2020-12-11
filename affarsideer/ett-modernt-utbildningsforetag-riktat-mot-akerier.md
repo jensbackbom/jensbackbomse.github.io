@@ -8,14 +8,14 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 
 **Marknadspotential i Sverige:** 150 Mkr per år (vi räknar med en årsintäkt per användare på 15000 kr)
 
-**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-akerier/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-akerier/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-akerier/)
+[Ett community](/affarsideer/ett-community-for-akerier/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-akerier/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-akerier/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [VD:ar](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-vd-ar/), [elektriker](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-elektriker/), [hotell](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/), [CTO:er](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/)
+[fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [elektriker](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-elektriker/), [advokater](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/), [hotell](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/), [redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

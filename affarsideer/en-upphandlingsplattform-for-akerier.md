@@ -8,14 +8,14 @@ Om man är en stor organisation så kan man ofta förhandla sig till bättre pri
 
 **Marknadspotential i Sverige:** 50 Mkr per år (vi räknar med en årsintäkt per användare på 5000 kr)
 
-**Konkurrenter:** Aktörer såsom t.ex. Pressa.se. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** Aktörer såsom t.ex. Pressa.se. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett CRM-system](/affarsideer/ett-crm-system-for-akerier/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-akerier/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-akerier/), [Ett community](/affarsideer/ett-community-for-akerier/), [Ett CRM-system](/affarsideer/ett-crm-system-for-akerier/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/en-upphandlingsplattform-for-krogare/), [tillverkande industri](/affarsideer/en-upphandlingsplattform-for-tillverkande-industri/), [arkitekter](/affarsideer/en-upphandlingsplattform-for-arkitekter/), [redovisningskonsulter](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
+[tandläkare](/affarsideer/en-upphandlingsplattform-for-tandlakare/), [fastighetsmäklare](/affarsideer/en-upphandlingsplattform-for-fastighetsmaklare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

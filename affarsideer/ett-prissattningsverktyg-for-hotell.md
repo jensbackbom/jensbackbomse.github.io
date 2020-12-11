@@ -8,14 +8,14 @@ För företag som har ett större antal produkter och säljer via flera kanaler 
 
 **Marknadspotential i Sverige:** 40 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** I huvudsak Excel. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** I huvudsak Excel. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/), [Ett CRM-system](/affarsideer/ett-crm-system-for-hotell/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-hotell/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-hotell/), [Ett community](/affarsideer/ett-community-for-hotell/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/ett-prissattningsverktyg-for-elektriker/), [tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [redovisningskonsulter](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/), [arkitekter](/affarsideer/ett-prissattningsverktyg-for-arkitekter/), [fastighetsmäklare](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/)
+[tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [krögare](/affarsideer/ett-prissattningsverktyg-for-krogare/), [tillverkande industri](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

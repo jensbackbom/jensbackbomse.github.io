@@ -11,11 +11,11 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 **Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett community](/affarsideer/ett-community-for-tandlakare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/)
+[En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [Ett community](/affarsideer/ett-community-for-tandlakare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [arkitekter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-arkitekter/), [advokater](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/), [VD:ar](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-vd-ar/), [åkerier](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-akerier/)
+[redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/), [elektriker](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-elektriker/), [fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [arkitekter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-arkitekter/), [advokater](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

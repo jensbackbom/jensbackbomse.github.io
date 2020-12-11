@@ -8,14 +8,14 @@ För företag som har ett större antal produkter och säljer via flera kanaler 
 
 **Marknadspotential i Sverige:** 200 Mkr per år (vi räknar med en årsintäkt per användare på 10000 kr)
 
-**Konkurrenter:** I huvudsak Excel. Hemmagjorda lösningar kan säkert förekomma också.
+**Konkurrenter:** I huvudsak Excel. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-krogare/), [En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-krogare/)
+[Ett CRM-system](/affarsideer/ett-crm-system-for-krogare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-krogare/), [Ett community](/affarsideer/ett-community-for-krogare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[arkitekter](/affarsideer/ett-prissattningsverktyg-for-arkitekter/), [hotell](/affarsideer/ett-prissattningsverktyg-for-hotell/), [fastighetsmäklare](/affarsideer/ett-prissattningsverktyg-for-fastighetsmaklare/), [advokater](/affarsideer/ett-prissattningsverktyg-for-advokater/)
+[elektriker](/affarsideer/ett-prissattningsverktyg-for-elektriker/), [IT-konsulter](/affarsideer/ett-prissattningsverktyg-for-it-konsulter/), [tandläkare](/affarsideer/ett-prissattningsverktyg-for-tandlakare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

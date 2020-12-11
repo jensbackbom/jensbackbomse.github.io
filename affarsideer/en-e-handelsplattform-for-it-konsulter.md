@@ -8,14 +8,14 @@ Digitaliseringen av samhället pågår för fullt, men fortfarande utgör e-hand
 
 **Marknadspotential i Sverige:** 880 Mkr per år (vi räknar med en årsintäkt per användare på 5000 kr)
 
-**Konkurrenter:** Shopify, Amazon, Etsy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** Shopify, Amazon, Etsy m fl. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-it-konsulter/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/)
+[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-it-konsulter/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-it-konsulter/), [En franchisekedja](/affarsideer/en-franchisekedja-av-it-konsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[tillverkande industri](/affarsideer/en-e-handelsplattform-for-tillverkande-industri/), [hotell](/affarsideer/en-e-handelsplattform-for-hotell/), [redovisningskonsulter](/affarsideer/en-e-handelsplattform-for-redovisningskonsulter/), [fastighetsmäklare](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/)
+[tandläkare](/affarsideer/en-e-handelsplattform-for-tandlakare/), [åkerier](/affarsideer/en-e-handelsplattform-for-akerier/), [elektriker](/affarsideer/en-e-handelsplattform-for-elektriker/), [fastighetsmäklare](/affarsideer/en-e-handelsplattform-for-fastighetsmaklare/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

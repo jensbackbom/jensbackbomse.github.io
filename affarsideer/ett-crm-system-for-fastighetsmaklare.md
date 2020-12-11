@@ -8,14 +8,14 @@ Företagets kundregister är ett av de viktigaste IT-systemen, och den totala ma
 
 **Marknadspotential i Sverige:** 42 Mkr per år (vi räknar med en årsintäkt per användare på 4000 kr)
 
-**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett community](/affarsideer/ett-community-for-fastighetsmaklare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-fastighetsmaklare/)
+[Ett community](/affarsideer/ett-community-for-fastighetsmaklare/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-fastighetsmaklare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[elektriker](/affarsideer/ett-crm-system-for-elektriker/), [tandläkare](/affarsideer/ett-crm-system-for-tandlakare/), [IT-konsulter](/affarsideer/ett-crm-system-for-it-konsulter/), [tillverkande industri](/affarsideer/ett-crm-system-for-tillverkande-industri/), [krögare](/affarsideer/ett-crm-system-for-krogare/)
+[redovisningskonsulter](/affarsideer/ett-crm-system-for-redovisningskonsulter/), [krögare](/affarsideer/ett-crm-system-for-krogare/), [arkitekter](/affarsideer/ett-crm-system-for-arkitekter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

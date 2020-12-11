@@ -8,14 +8,14 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 
 **Marknadspotential i Sverige:** 150 Mkr per år (vi räknar med en årsintäkt per användare på 15000 kr)
 
-**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Har ännu inte undersökt om det finns direkta konkurrenter inom nischen.
+**Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tillverkande-industri/)
+[En franchisekedja](/affarsideer/en-franchisekedja-av-tillverkande-industri/), [Ett community](/affarsideer/ett-community-for-tillverkande-industri/), [Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-tillverkande-industri/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[fastighetsmäklare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-fastighetsmaklare/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [marknadschefer](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-marknadschefer/), [redovisningskonsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-redovisningskonsulter/), [hotell](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-hotell/)
+[advokater](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-advokater/), [krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [elektriker](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-elektriker/), [tandläkare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [IT-konsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

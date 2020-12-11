@@ -11,11 +11,11 @@ Alla yrkeskategorier behöver fortbildning, men många e-learningtjänster är h
 **Konkurrenter:** bolag i stil med LinkedIn learning, Udemy m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-redovisningskonsulter/)
+[Ett personalundersökningsverktyg](/affarsideer/ett-personalundersokningsverktyg-for-redovisningskonsulter/), [En franchisekedja](/affarsideer/en-franchisekedja-av-redovisningskonsulter/), [Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-redovisningskonsulter/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[CTO:er](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/), [åkerier](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-akerier/), [tandläkare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [marknadschefer](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-marknadschefer/), [arkitekter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-arkitekter/)
+[krögare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-krogare/), [CTO:er](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-cto-er/), [tandläkare](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/), [marknadschefer](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-marknadschefer/), [IT-konsulter](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-it-konsulter/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})

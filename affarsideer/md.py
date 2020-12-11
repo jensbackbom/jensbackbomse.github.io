@@ -316,7 +316,7 @@ landing_page_content=u"""---
 layout: page
 title: {total_number} gratis affärsidéer för dig som vill starta eget
 ---
-Jag har gjort en sammanställning av {total_number} gratis affärsidéer med tillhörande recept för hur man kommer igång med dem. Se nedan för några exempel som du sedan kan klicka dig vidare från. Håll till godo!
+Jag har gjort en sammanställning av {total_number} gratis affärsidéer med tillhörande marknadsuppskattningar. Se nedan för några exempel som du sedan kan klicka dig vidare från. Håll till godo!
 
 #### Exempel:
 {list_of_ideas}

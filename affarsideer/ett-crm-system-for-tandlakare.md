@@ -8,14 +8,14 @@ Företagets kundregister är ett av de viktigaste IT-systemen, och den totala ma
 
 **Marknadspotential i Sverige:** 100 Mkr per år (vi räknar med en årsintäkt per användare på 4000 kr)
 
-**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Det kan säkert finnas mer nischade aktörer som man behöver se upp med.
+**Konkurrenter:** Salesforce, Hubspot, Pipedrive m fl. Hemmagjorda lösningar kan säkert förekomma också.
 
 #### Några andra affärsidéer riktade mot samma målgrupp:
-[En e-handelsplattform](/affarsideer/en-e-handelsplattform-for-tandlakare/), [En franchisekedja](/affarsideer/en-franchisekedja-av-tandlakare/), [En upphandlingsplattform](/affarsideer/en-upphandlingsplattform-for-tandlakare/)
+[Ett prissättningsverktyg](/affarsideer/ett-prissattningsverktyg-for-tandlakare/), [Ett community](/affarsideer/ett-community-for-tandlakare/), [Ett modernt utbildningsföretag](/affarsideer/ett-modernt-utbildningsforetag-riktat-mot-tandlakare/)
 
 
 #### Några andra möjliga målgrupper för samma idé:
-[krögare](/affarsideer/ett-crm-system-for-krogare/), [tillverkande industri](/affarsideer/ett-crm-system-for-tillverkande-industri/), [IT-konsulter](/affarsideer/ett-crm-system-for-it-konsulter/)
+[advokater](/affarsideer/ett-crm-system-for-advokater/), [tillverkande industri](/affarsideer/ett-crm-system-for-tillverkande-industri/)
 
 #### Andra inlägg jag skrivit på detta tema:
 - [Hur man hittar affärsidéer]({% post_url 2020-11-08-hur-man-hittar-affarsideer %})
