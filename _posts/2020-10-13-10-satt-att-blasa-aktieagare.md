@@ -25,3 +25,5 @@ Betyder det att man sitter säkert i båten bara för att man har ett aktieägar
 Frågar man en jurist så kan man få en ganska mörk bild av alla risker det innebär att vara aktieägare. Om man bara har ett vettigt aktieägaravtal på plats och inte skriver arga mail i affekt så är man dock för det mesta på den säkra sidan.
 
 Frågor på detta? Hör av dig! Jag nås på [Twitter](https://twitter.com/JensBackbom) eller [LinkedIn](https://www.linkedin.com/in/jensbackbom/).
+
+Vill du lära dig mer om att driva företag så lanserar jag under våren 2023 en hypereffektiv mini-MBA online! Läs mer om den på [https://www.paretoschool.com/](https://www.paretoschool.com/).

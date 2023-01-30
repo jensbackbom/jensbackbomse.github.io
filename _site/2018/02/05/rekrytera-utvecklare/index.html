@@ -53,6 +53,54 @@
     .icon-linkedin-squared:before { content: '\f30c'; }
     .icon-rss-squared:before { content: '\e85d'; }
 
+    .banner-top {
+      background-color: #f2f0e9;
+      display: flex;
+      width:100%;
+      justify-content: center;
+      align-items: center;
+      font-size: 12 px;
+      /*font-weight: 500;*/
+      padding-top:12px;
+      padding-bottom: 12px;
+    }
+
+    @-webkit-keyframes bounce {
+            0% {
+        transform: scale(1,1) translate(0px, 0px);
+      }
+      
+      30%{
+        transform: translate(10px, 0px); 
+      }
+
+      75%{
+        transform: translate(-10px, 0px); 
+      }
+      
+     100% {
+        transform: translate(0px, 0px);
+      }
+    }
+
+    .bounce {
+          text-align:center;
+          padding-left:30px;  
+         -webkit-animation: bounce 0.75s infinite;
+         font-weight:600;
+         color: black !important;
+    }
+
+    .bounce:hover {
+          text-decoration: none !important;
+    }
+
+
+    .banner-top:hover {
+      background-color: #dedcd3;
+    }
+
+
   </style>
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -82,7 +130,7 @@
 
 
   <body>
-
+    <a href="http://www.paretoschool.com/" class="banner-top">En MBA tillgänglig för alla? <div class="bounce">Läs mer -></div></a>
     <div class="container content">
       <header class="masthead">
         <h3 class="masthead-title">
@@ -231,7 +279,7 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="2022-09-17T09:07:46+02:00">2022</time> Jens Bäckbom.
+          &copy; <time datetime="2023-01-30T23:12:20+01:00">2023</time> Jens Bäckbom.
         </small>
       </footer>
     </div>
