@@ -10,30 +10,29 @@ Endast 2 av 20+ affärsidéer och projekt som jag testade under 1997-2017 blev h
 Detta innebär en hit rate på <10% (och jag borde inte räkna konsultandet egentligen...)
 
 ### Saker som gick att leva av:
-🏨 Hotel KPI benchmarking system
-🔍 IT Consulting & freelancing
+🏨 Benchmarking Alliance - ett benchmarkingsystem för hotell
+🔍 IT-konsultande och frilansande
 
 ### Andra projekt och bolag:
-📖 Bok.nu: Book recommendation website
-🏨 Broom: Hotel booking system
-🔍 SoMe tracker: Social media monitoring system
-🌟 NexTalent: Top talent student recruiting firm
-👔 Gntl.se: Men’s accessories’ e-commerce site
-🛒 Torsby.nu: Hyperlocal e-commerce marketplace
-📘 My book ”Tänka, rätt och fel”
-🎓 Exjobb.com: Student thesis marketplace
-✈️ GoSelect: A seating system for airlines
-🔨 Workbench: Blue collar project mgmt system
-📰 Prenigo: Magazine subscription mgmt system
-🌐 Lingo8020: Language learning website
-💼 Trello-clone w built-in invoicing
-⛪ A CMS for churches
-📰 Hyperlocal news sites
-📊 Pollinate - A survey tool
+📖 Bok.nu: En boktipssajt
+🏨 Broom: Ett hotellbokningssystem
+🔍 SoMe tracker: Ett system för att monitorera sociala medier
+🌟 NexTalent: En rekryteringsfirma för studenter
+👔 Gntl.se: En e-handelssajt som sålde accessoarer för män
+🛒 Torsby.nu: Hyperlokal e-handelssajt
+📘 Min bok ”Tänka, rätt och fel”
+🎓 Exjobb.com: Marknadsplats för exjobb
+✈️ GoSelect: Ett seatingsystem för charterflygbolag
+🔨 Workbench: Ett projekthanteringssystem för hantverkare
+📰 Prenigo: Ett prenumerationshanteringssystem för tidskrifter
+🌐 Lingo8020: En sajt för språkutbildning baserad på 80/20-principen
+💼 En Trello-klon med inbyggd fakturering
+⛪ Ett CMS för församlingar
+📰 Hyperlokala nyhetssajter
+📊 Pollinate - Ett enkätverktyg
 🏡 Hyrvilla.nu
-💳 A multi-purpose credit card
-🎵 Techno music production
-🚀 Praktikplatser.com
+🎵 Teknomusikproduktion
+🚀 Praktikplatser.com - som det låter :)
 
 Slutsatsen?
 - Testa många saker! Det första du testar kommer förmodligen inte fungera.
