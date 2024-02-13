@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lanserar Pareto Business School
-image: assets/img/pbs_logo.png
+image: assets/img/pareto_logo_small.png
 ---
 
 Jag har ofta tänkt tillbaka på min studietid och dragit två slutsatser:
