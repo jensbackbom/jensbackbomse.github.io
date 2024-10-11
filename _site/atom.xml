@@ -4,13 +4,241 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-01-30T23:12:20+01:00</updated>
+ <updated>2024-10-08T09:44:31+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>En styrelseutbildning i sammanfattning</title>
+   <link href="http://localhost:4000/2024/10/08/en-styrelseutbildning-i-sammanfattning/"/>
+   <updated>2024-10-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2024/10/08/en-styrelseutbildning-i-sammanfattning</id>
+   <content type="html">&lt;p&gt;Jag har gått flera olika styrelseutbildningar i olika sammanhang, men tycker ofta att de är alltför fokuserade på formalia. Visst, det är viktigt att förstå vad aktiebolagslagen säger, men ännu viktigare är att förstå vad som utgör bra och effektivt styrelsearbete - det finns många som sitter i styrelser utan att göra speciellt mycket nytta!&lt;/p&gt;
+
+&lt;p&gt;Här ett försök att sammanfatta några viktiga punkter som man bör ha med sig ang styrelsearbete, både formella och praktiska:&lt;/p&gt;
+
+&lt;h3 id=&quot;ansvar-och-lojalitet&quot;&gt;&lt;strong&gt;Ansvar och lojalitet&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Agera för bolagets bästa, inte för enskilda ägare&lt;/strong&gt;&lt;br /&gt;
+ Som styrelseledamot måste du alltid agera i &lt;strong&gt;bolagets bästa intresse&lt;/strong&gt; och inte för en enskild ägare, även om du blivit utsedd av en viss ägare eller ägargrupp.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Personliga agendor&lt;/strong&gt;&lt;br /&gt;
+ En bra styrelseledamot undviker att driva en &lt;strong&gt;personlig agenda&lt;/strong&gt; och vågar ta svåra diskussioner direkt med gruppen och särskilt med VD:n.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Undvik skadeståndsansvar&lt;/strong&gt;&lt;br /&gt;
+ Du kan inte hållas skadeståndsansvarig för dåliga beslut om de fattades baserat på korrekt information och utan att något ljugits om eller undanhållits. Om du &lt;strong&gt;reserverar dig&lt;/strong&gt; mot ett beslut i protokollet undviker du i princip allt ansvar för det beslutet.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;juridiska-skyldigheter&quot;&gt;&lt;strong&gt;Juridiska skyldigheter&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Kontrollbalansräkning vid kapitalförlust&lt;/strong&gt;&lt;br /&gt;
+ Upprätta en kontrollbalansräkning om du misstänker att &lt;strong&gt;hälften av aktiekapitalet är förbrukat&lt;/strong&gt;. Styrelsen har ansvar att agera snabbt för att undvika personligt betalningsansvar.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Skydda bolagets ekonomi och undvik personligt betalningsansvar&lt;/strong&gt;&lt;br /&gt;
+ Vid ekonomiska problem måste bolaget försättas i konkurs senast på &lt;strong&gt;skattens förfallodag&lt;/strong&gt; för att undvika personligt ansvar för obetalda skatter.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Skillnad mellan privata och publika bolag&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Privata aktiebolag&lt;/strong&gt;: Kräver minst &lt;strong&gt;en ordinarie styrelseledamot&lt;/strong&gt; och en suppleant.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Publika aktiebolag&lt;/strong&gt;: Kräver minst &lt;strong&gt;tre ordinarie styrelseledamöter&lt;/strong&gt;. Publika bolag måste även följa striktare regler för redovisning, kapitalanskaffning och offentlig insyn.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tystnadsplikt&lt;/strong&gt;&lt;br /&gt;
+ Styrelseledamöter har tystnadsplikt och får inte avslöja känslig information om bolagets affärsstrategier, finansiella situation eller andra interna förhållanden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;förberedelse-och-mötesnärvaro&quot;&gt;&lt;strong&gt;Förberedelse och mötesnärvaro&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Engagemang och närvaro&lt;/strong&gt;&lt;br /&gt;
+ En bra styrelseledamot &lt;strong&gt;deltar aktivt&lt;/strong&gt;, är förberedd och följer mötesagendan, medan en dålig ledamot anländer sent, läser inte på och ställer frågor som redan besvarats.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Resurser och fokus&lt;/strong&gt;&lt;br /&gt;
+ En bra styrelseledamot inser att &lt;strong&gt;resurserna är begränsade&lt;/strong&gt; och uppmuntrar fokus istället för att lägga till fler initiativ. Dålig praxis är att alltid föreslå att göra mer utan att tänka på kapacitet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tydliga frågor&lt;/strong&gt;&lt;br /&gt;
+ En bra styrelseledamot förstår att de &lt;strong&gt;frågor som ställs ofta är viktigare än de svar som ges&lt;/strong&gt;. Dåliga ledamöter går in i rummet med färdiga svar utan att ha tänkt igenom problemen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Beslutsför styrelse&lt;/strong&gt;&lt;br /&gt;
+  För att styrelsen ska vara beslutsför krävs att &lt;strong&gt;mer än hälften&lt;/strong&gt; av ledamöterna är närvarande vid mötet.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;styrelseledamotens-roll-och-ansvar&quot;&gt;&lt;strong&gt;Styrelseledamotens roll och ansvar&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Aktivitet och engagemang&lt;/strong&gt;&lt;br /&gt;
+ Som styrelseledamot förväntas du vara aktiv, delta i styrelsemöten och vara väl påläst inför beslut. Det är ditt ansvar att hålla dig informerad om bolagets verksamhet och ekonomiska ställning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Styrelsen ansvarar för bolagets organisation och förvaltning&lt;/strong&gt;&lt;br /&gt;
+ Styrelsen ska organisera och övervaka bolagets verksamhet, inklusive ekonomisk kontroll och interna rutiner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Styrelsen utser och avsätter VD&lt;/strong&gt;&lt;br /&gt;
+ Styrelsen ansvarar för att utse och övervaka VD:s arbete, samt att avsätta VD vid behov om denne inte följer styrelsens riktlinjer. OBS att en bra styrelseledamot bör agera binärt här - antingen har man inget förtroende för VD (och agerar för att avsätta vederbörande), eller också agerar man som om man har 100 procent förtroende för VD och stöttar fullt ut. Mellantinget - att t.ex. försöka undermindera VD:s arbete eller ställa denna mot väggen, är helt kontraproduktivt.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Årsredovisning och bokslut&lt;/strong&gt;&lt;br /&gt;
+ Styrelsen ansvarar för att årsredovisningen och bokslutet är korrekt upprättade och inlämnade i tid, senast sju månader efter räkenskapsårets slut.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;kuriosa&quot;&gt;&lt;strong&gt;Kuriosa&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ingen bolagsstämma krävs vid försäljning av bolag&lt;/strong&gt;&lt;br /&gt;
+ Styrelsen kan besluta om försäljning av hela eller delar av bolaget utan att kalla till bolagsstämma.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Gäster på bolagsstämman&lt;/strong&gt;&lt;br /&gt;
+ I privata bolag får gäster, inklusive ledningen, endast delta på stämman om &lt;strong&gt;alla närvarande aktieägare godkänner&lt;/strong&gt; deras närvaro.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Arvode och styrelsesammansättning&lt;/strong&gt;&lt;br /&gt;
+ Arvode till styrelsen bestäms &lt;strong&gt;före&lt;/strong&gt; valet av styrelse, till skillnad från exempelvis USA där arvode ofta fastställs efter att styrelsen är vald.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Retroaktivt arvode&lt;/strong&gt;&lt;br /&gt;
+ Det är tillåtet att ge retroaktivt arvode till styrelsen, exempelvis om arbetsbelastningen oväntat ökar på grund av en kris.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Endast beslut behöver protokollföras&lt;/strong&gt;&lt;br /&gt;
+ I svenska styrelseprotokoll räcker det att dokumentera själva besluten, men beslutsunderlag och förslag bör finnas med i dokumentationen.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tankar? Jag nås på &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt; eller &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Några vanliga misstag när man startar bolag</title>
+   <link href="http://localhost:4000/2024/03/04/vanliga-misstag-nar-man-startar-bolag/"/>
+   <updated>2024-03-04T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2024/03/04/vanliga-misstag-nar-man-startar-bolag</id>
+   <content type="html">&lt;p&gt;Jag har gjort och sett många misstag som entreprenör och investerare, men dessa går faktiskt att undvika om man bara känner till dem:&lt;/p&gt;
+
+&lt;p&gt;😓 Att starta företag med någon du inte har jobbat med tidigare. Ha åtminstone en provperiod där du kan välja att skiljas åt efteråt.&lt;/p&gt;
+
+&lt;p&gt;😴 Att starta företag med någon som har en radikalt annorlunda ambitionsnivå, intensitet eller “sense of urgency” än du själv. (i &amp;gt;50 % av alla bolag jag har arbetat lämnade minst en av grundare bolaget inom 1-3 år efter grundandet)&lt;/p&gt;
+
+&lt;p&gt;🚧 Att bygga produkten innan man säljer den (såvida du inte behöver bevisa för dig själv att du faktiskt kan bygga den)&lt;/p&gt;
+
+&lt;p&gt;🤝 Att inte ha ett aktieägaravtal. Du vill ha vesting, drag-along och tag-along. (Se grundarstatistiken ovan)&lt;/p&gt;
+
+&lt;p&gt;🤑 Att ta in riskkapital direkt till något som borde vara bootstrappat (Riskkapital fungerar bäst när du har börjat bevisa dina hypoteser. Det tog t.ex. Figma 3,5 år att skapa sin första riktiga produkt).&lt;/p&gt;
+
+&lt;p&gt;💸 Att ta in riskkapital till en stretchad värdering. Det kan kännas bra att minska utspädningen, men det kommer att vara nästan omöjligt att ta in pengar nästa gång om du inte nått alla dina mål (Dessutom kommer investerare att vara mer angelägna att delta i bryggrundor om de känner att de gjorde en rimlig affär första gången de investerade).&lt;/p&gt;
+
+&lt;p&gt;Tankar? Jag nås på &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt; eller &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Man måste våga testa flera saker</title>
+   <link href="http://localhost:4000/2024/02/10/man-maste-vaga-testa-flera-saker/"/>
+   <updated>2024-02-10T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2024/02/10/man-maste-vaga-testa-flera-saker</id>
+   <content type="html">&lt;p&gt;Endast 2 av 20+ affärsidéer och projekt som jag testade under 1997-2017 blev hållbara företag.&lt;/p&gt;
+
+&lt;p&gt;Över 90% av allt jag gjorde misslyckades.&lt;/p&gt;
+
+&lt;p&gt;Detta innebär en hit rate på &amp;lt;10% (och jag borde inte räkna konsultandet egentligen…)&lt;/p&gt;
+
+&lt;h3 id=&quot;saker-som-gick-att-leva-av&quot;&gt;Saker som gick att leva av:&lt;/h3&gt;
+&lt;p&gt;🏨 Benchmarking Alliance - ett benchmarkingsystem för hotell&lt;/p&gt;
+
+&lt;p&gt;🔍 IT-konsultande och frilansande&lt;/p&gt;
+
+&lt;h3 id=&quot;andra-projekt-och-bolag&quot;&gt;Andra projekt och bolag:&lt;/h3&gt;
+&lt;p&gt;📖 Bok.nu: En boktipssajt&lt;/p&gt;
+
+&lt;p&gt;🏨 Broom: Ett hotellbokningssystem&lt;/p&gt;
+
+&lt;p&gt;🔍 SoMe tracker: Ett system för att monitorera sociala medier&lt;/p&gt;
+
+&lt;p&gt;🌟 NexTalent: En rekryteringsfirma för studenter&lt;/p&gt;
+
+&lt;p&gt;👔 Gntl.se: En e-handelssajt som sålde accessoarer för män&lt;/p&gt;
+
+&lt;p&gt;🛒 Torsby.nu: Hyperlokal e-handelssajt&lt;/p&gt;
+
+&lt;p&gt;📘 Min bok ”Tänka, rätt och fel”&lt;/p&gt;
+
+&lt;p&gt;🎓 Exjobb.com: Marknadsplats för exjobb&lt;/p&gt;
+
+&lt;p&gt;✈️ GoSelect: Ett seatingsystem för charterflygbolag&lt;/p&gt;
+
+&lt;p&gt;🔨 Workbench: Ett projekthanteringssystem för hantverkare&lt;/p&gt;
+
+&lt;p&gt;📰 Prenigo: Ett prenumerationshanteringssystem för tidskrifter&lt;/p&gt;
+
+&lt;p&gt;🌐 Lingo8020: En sajt för språkutbildning baserad på 80/20-principen&lt;/p&gt;
+
+&lt;p&gt;💼 En Trello-klon med inbyggd fakturering&lt;/p&gt;
+
+&lt;p&gt;⛪ Ett CMS för församlingar&lt;/p&gt;
+
+&lt;p&gt;📰 Hyperlokala nyhetssajter&lt;/p&gt;
+
+&lt;p&gt;📊 Pollinate - Ett enkätverktyg&lt;/p&gt;
+
+&lt;p&gt;🏡 Hyrvilla.nu&lt;/p&gt;
+
+&lt;p&gt;🎵 Teknomusikproduktion&lt;/p&gt;
+
+&lt;p&gt;🚀 Praktikplatser.com - som det låter :)&lt;/p&gt;
+
+&lt;p&gt;Slutsatsen?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Testa många saker! Det första du testar kommer förmodligen inte fungera.&lt;/li&gt;
+  &lt;li&gt;Fortsätt försöka och ge inte upp - man vet aldrig när genombrottet kommer!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tankar? Jag nås på &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt; eller &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lanserar Pareto Business School</title>
+   <link href="http://localhost:4000/2023/03/15/pareto-business-school/"/>
+   <updated>2023-03-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2023/03/15/pareto-business-school</id>
+   <content type="html">&lt;p&gt;Jag har ofta tänkt tillbaka på min studietid och dragit två slutsatser:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Stora delar av utbildningen är inte praktiskt användbar, snarare är det bara ngn slags utdraget IQ-test&lt;/li&gt;
+  &lt;li&gt;Flera viktiga aspekter av att driva bolag anses inte akademiska nog att ha med i traditionella program&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Kanske har akademisk utbildning även andra syften, såsom att lära sig tänka analytiskt, men vad gör man om man är tekniker, forskare, reklamare eller rekryterare och vill förstå mer av hur bolag drivs? Man kan gå en MBA, men det tar väldigt mycket tid i anspråk och kan kosta flera hundra tusen.&lt;/p&gt;
+
+&lt;p&gt;Av denna anledning har jag och min medgrundare Mathias Eklöf startat &lt;a href=&quot;https://www.paretoschool.com/&quot;&gt;Pareto Business School&lt;/a&gt;. Vi kommer att erbjuda en ”mini-MBA” med första kursstart redan nu den 11 april - vår första version kommer att vara en MVP särskilt riktad mot personer utan ekonombakgrund i startups och scaleups, men även andra som vill ”upskilla” inom företagsledning är förstås välkomna! Vi kommer att ha case studies från alla möjliga typer av bolag (bl a Klarna, Spotify, Lifesum och First Camp)&lt;/p&gt;
+
+&lt;p&gt;Vi kommer att hålla nere antalet platser till 15 för att skapa en unik upplevelse för de första deltagarna, fem är redan bokade så det gäller att passa på!&lt;/p&gt;
+
+&lt;p&gt;Tankar? Jag nås på &lt;a href=&quot;https://www.linkedin.com/in/jensbackbom/&quot;&gt;LinkedIn&lt;/a&gt; eller &lt;a href=&quot;https://twitter.com/JensBackbom&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hur man blir rik utan att ha tur</title>
